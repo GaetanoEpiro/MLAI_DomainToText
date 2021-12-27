@@ -1,0 +1,43 @@
+Namespace(gpu=0, num_classes=7, path_to_dataset='/content/MLAI_DomainToText/', path_to_txt='/content/MLAI_DomainToText/data/PACS', target='ArtPainting')
+Sources Cartoon, Photo, Sketch
+Model pretrained on Textures loaded
+100% 2344/2344 [01:27<00:00, 26.82it/s]
+100% 1670/1670 [01:01<00:00, 27.01it/s]
+100% 3929/3929 [02:25<00:00, 26.94it/s]
+Evaluation on the Target domain - ArtPainting
+100% 2048/2048 [01:57<00:00, 17.38it/s]
+Accuracy mean: 67.63 
+Accuracy text_domain_embedding: 70.21
+
+Namespace(gpu=0, num_classes=7, path_to_dataset='/content/MLAI_DomainToText/', path_to_txt='/content/MLAI_DomainToText/data/PACS', target='Photo')
+Sources ArtPainting, Cartoon, Sketch
+Model pretrained on Textures loaded
+100% 2048/2048 [01:09<00:00, 29.28it/s]
+100% 2344/2344 [01:20<00:00, 29.18it/s]
+100% 3929/3929 [02:15<00:00, 29.07it/s]
+Evaluation on the Target domain - Photo
+100% 1670/1670 [01:29<00:00, 18.67it/s]
+Accuracy mean: 94.49 
+Accuracy text_domain_embedding: 94.85 
+
+Namespace(gpu=0, num_classes=7, path_to_dataset='/content/MLAI_DomainToText/', path_to_txt='/content/MLAI_DomainToText/data/PACS', target='Cartoon')
+Sources ArtPainting, Photo, Sketch
+Model pretrained on Textures loaded
+100% 2048/2048 [01:11<00:00, 28.71it/s]
+100% 1670/1670 [00:58<00:00, 28.53it/s]
+100% 3929/3929 [02:17<00:00, 28.58it/s]
+Evaluation on the Target domain - Cartoon
+100% 2344/2344 [02:07<00:00, 18.35it/s]
+Accuracy mean: 57.12 
+Accuracy text_domain_embedding: 57.98 
+
+Namespace(gpu=0, num_classes=7, path_to_dataset='/content/MLAI_DomainToText/', path_to_txt='/content/MLAI_DomainToText/data/PACS', target='Sketch')
+Sources ArtPainting, Cartoon, Photo
+Model pretrained on Textures loaded
+100% 2048/2048 [01:12<00:00, 28.43it/s]
+100% 2344/2344 [01:21<00:00, 28.85it/s]
+100% 1670/1670 [00:58<00:00, 28.43it/s]
+Evaluation on the Target domain - Sketch
+100% 3929/3929 [03:31<00:00, 18.54it/s]
+Accuracy mean: 60.40 
+Accuracy text_domain_embedding: 62.03 
