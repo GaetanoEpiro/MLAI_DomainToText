@@ -1,3 +1,7 @@
+import sys
+
+sys.path.append('./model')
+
 import resnet18
 
 
