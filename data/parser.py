@@ -11,8 +11,8 @@ for line in lines:
     fields = line.split(" ")
 
     out.write("\t{\n")
-    out.write("\t\t" + "\"image_name\":" + "\"" + fields[0] + "\",\n")
-    out.write("\t\t" + "\"descriptions: \": [\n")
+    out.write("\t\t" + "\"image_name\": " + "\"" + fields[0] + "\",\n")
+    out.write("\t\t" + "\"descriptions:\": [\n")
     for i in range(8):
         out.write("\t\t\t\"\",\n")
     out.write("\t\t\t\"\"\n")
