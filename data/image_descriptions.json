@@ -1,8 +1,1402 @@
 [
-    {
-        "image_name": "",
-        "descriptions": [
-            ""
-        ]
-    }
+	{
+		"image_name": "sketch/dog/n02106662_5001-2.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_1011-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_10164-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_10036-9.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/7381.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_1340-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_8938-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_8789-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02106662_8511-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_12059-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_15307-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_14781-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_3299-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_8421-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n03272010_392-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_1695-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_2925-7.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_13236-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_8846-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_6688-8.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_2372-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/person/12112.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_6624-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02106662_2101-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_15453-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02106662_13178-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_18570-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_10164-2.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_5216-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_17043-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_10081-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_4221-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_5216-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_15669-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n02676566_9612-2.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_12792-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/person/12127.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_15307-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/person/12208.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_8718-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_257-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_5420-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_10295-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_1189-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_245-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n03272010_3732-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/5358.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_14399-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_11683-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/person/12145.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_6552-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02109525_16346-8.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_8901-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02106662_8511-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_6043-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_6207-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_8518-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02106662_18922-8.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_15440-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_2825-10.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_11130-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_11328-2.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/7388.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_2209-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_6530-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/5333.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n03272010_9557-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_11487-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02106662_928-7.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/n02439033_15936-7.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_3072-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_10193-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/5309.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/person/12206.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n02676566_9254-2.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_3808-2.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_8744-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02106662_10406-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n02676566_330-2.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_1340-10.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_7631-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n03467517_22246-5.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_257-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02103406_4849-4.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n02676566_6980-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_8571-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_9421-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_6192-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n02676566_6980-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_194-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/n02109525_18347-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/5964.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/giraffe/7414.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_8526-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_779-7.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_262-7.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/guitar/n02676566_5134-3.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/elephant/n02503517_6032-6.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/horse/n02374451_13171-1.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"image_name": "sketch/dog/5283.png",
+		"descriptions:": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	}
 ]
