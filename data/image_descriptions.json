@@ -30,15 +30,15 @@
 	{
 		"image_name": "cartoon/house/pic_194.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes",
+			"light blue",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -537,7 +537,7 @@
 			"mid-level",
 			"precise lines",
 			"low",
-			"yes, grayscale",
+			"yes, colorful",
 			"white",
 			"yes",
 			"yes",
@@ -548,15 +548,15 @@
 	{
 		"image_name": "cartoon/house/pic_281.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -604,15 +604,15 @@
 	{
 		"image_name": "cartoon/house/pic_218.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -632,15 +632,15 @@
 	{
 		"image_name": "cartoon/house/pic_161.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -716,15 +716,15 @@
 	{
 		"image_name": "cartoon/house/pic_178.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -786,15 +786,15 @@
 	{
 		"image_name": "cartoon/house/pic_080.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -856,15 +856,15 @@
 	{
 		"image_name": "cartoon/house/pic_132.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -968,15 +968,15 @@
 	{
 		"image_name": "cartoon/house/pic_223.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -1038,29 +1038,29 @@
 	{
 		"image_name": "cartoon/house/pic_357.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_084.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"yes",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -1193,15 +1193,15 @@
 	{
 		"image_name": "cartoon/house/pic_211.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"mid",
+			"yes, colorful",
+			"light blue, white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -1249,15 +1249,15 @@
 	{
 		"image_name": "cartoon/house/pic_233.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"mid",
+			"no",
+			"light blue, white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -1361,15 +1361,15 @@
 	{
 		"image_name": "cartoon/house/pic_253.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
