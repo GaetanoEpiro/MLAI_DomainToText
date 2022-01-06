@@ -2,29 +2,29 @@
 	{
 		"image_name": "cartoon/person/pic_232.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_357.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
@@ -44,491 +44,491 @@
 	{
 		"image_name": "cartoon/person/pic_096.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"mid",
+			"yes, grayscale",
+			"white",
+			"yes",
+			"yes",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_074.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"mid",
+			"yes, colorful",
+			"white",
+			"yes",
+			"yes, not relevant",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_219.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"mid",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_381.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"mid",
+			"no",
+			"white with green frame",
+			"yes",
+			"yes, not relevant",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_353.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_106.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_218.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"yes, dense",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_056.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, grayscale",
+			"green-colored with shades of cream",
+			"yes",
+			"yes, dense",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_383.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"no, two instances",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_031.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_121.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, grayscale",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_260.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_354.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"yes, sparse",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_010.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_042.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, grayscale",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_076.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_043.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"no, two instances",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_471.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"light blue and white",
+			"yes",
+			"yes, sparse",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_195.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_339.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"yes"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_390.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, grayscale",
+			"white",
+			"no, four instances",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_179.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_065.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, grayscale",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_326.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_496.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, grayscale",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_337.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_080.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_393.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"orange with white frame",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_092.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, grayscale",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_177.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"yes, colorful",
+			"white",
+			"no, six instances",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_118.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_376.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_071.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_060.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"mid-level",
+			"precise lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"yes"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_166.jpg",
 		"descriptions:": [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
+			"low-level",
+			"wave lines",
+			"low",
+			"no",
+			"white",
+			"yes",
+			"no",
+			"no",
+			"no, unrealistic"
 		]
 	},
 	{
