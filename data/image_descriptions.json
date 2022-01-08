@@ -1,8 +1,1430 @@
 [
-    {
-        "image_name": "",
-        "descriptions": [
-            ""
-        ]
-    }
+  {
+    "image_name": "art_painting/person/pic_502.jpg",
+    "descriptions": [
+      "detailed, digital, delineated, artificial",
+      "definite, detailed, sharp",
+      "intense, harmonious, saturated, vibrant, vivid",
+      "colorful, complementary, rich, warm",
+      "single color, colorful, rich, uniform",
+      "no, multiple instances",
+      "no, no text",
+      "no, photo texture",
+      "no, unrealistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_085.jpg",
+    "descriptions": [
+      "detailed, intricate",
+      "precise lines, blurred",
+      "intense, dark",
+      "grey, deep, faded, ashy",
+      "multiple color, muted, graduated",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_331.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "definite, distinct, blurred",
+      "intense, muted, contrasting, cool",
+      "colorful, cool, muted, muddied",
+      "multiple color, changing, blurred",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_071.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, imprecise, blurred, uneven",
+      "weak, graduated, inspid",
+      "muted, faded, neutral",
+      "single color, uniform, grey, white",
+      "yes, single instance",
+      "yes",
+      "yes, painting, pencil strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/guitar/pic_129.jpg",
+    "descriptions": [
+      "digital, detailed",
+      "definite, precise",
+      "intense, harmonious, contrasting",
+      "complementary, mixed",
+      "multiple color, rich",
+      "yes, single instance",
+      "no, no text",
+      "photo texture",
+      "yes, realisitc"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_126.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, irregular, blurred",
+      "intense, dark, contrasting",
+      "contrasting, cold, deep, dark",
+      "single color, dark",
+      "yes, single instance",
+      "yes",
+      "yes, uneven",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_474.jpg",
+    "descriptions": [
+      "grainy, historic, representational",
+      "uneven, irregular",
+      "harmonious, bright, vivid",
+      "colorful, complementary, blended, graduated, warm",
+      "multiple color, rich, colorful, changing, graduated",
+      "no, multiple instances",
+      "no, no text",
+      "yes, uneven, flat",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_151.jpg",
+    "descriptions": [
+      "detailed, artificial, digital",
+      "definite, precise lines",
+      "intense, bright, vivid",
+      "colorful, complementary, rich",
+      "multiple color, colorful",
+      "yes, single instance",
+      "no, no text",
+      "photo texture",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_148.jpg",
+    "descriptions": [
+      "detailed, representational, grainy",
+      "definite, distinct, uneven, irregular",
+      "harmonious, vivid, natural",
+      "colorful, complementary, bright",
+      "multiple color, rich, panoramic, smooth",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_362.jpg",
+    "descriptions": [
+      "grainy, detailed, representational",
+      "sharp, uneven",
+      "vivid, cold, natural",
+      "cold, grey, muted, complementary, harmonious",
+      "multiple color, rich, changing, panoramic",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, uneven, soft",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_151.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "definite, irregular, blurred",
+      "intense, vibrant, saturated",
+      "colorful, rich, bold, vibrant, complementary",
+      "multiple color, changing, red, colorful",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_124.jpg",
+    "descriptions": [
+      "grainy, representational",
+      "blurred, soft, imprecise",
+      "natural, cool, vivid",
+      "complementary, harmonious, bright, joyful",
+      "multiple color, smooth, blended, white",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, soft, frosted",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_346.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "definite, detailed, precise lines",
+      "harmonious, vivid, warm, graduated",
+      "bright, joyful, harmonious",
+      "multiple color, colorful, detailed",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft, smooth",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_141.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines, blurred",
+      "harmonious, vivid, natural",
+      "colorful, harmonious, joyful, radiant",
+      "multiple color, smooth, panoramic",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft, frosted",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/guitar/pic_023.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "definite, precise lines, distinct",
+      "harmonious, rich",
+      "contrasting, muddied, mixed",
+      "single color, brown, graduated",
+      "no, multiple instances",
+      "yes, signature",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_085.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "definite, precise lines, sharp",
+      "inspid, vivid, cool",
+      "contrasting, mixed, intense",
+      "multiple color, rich, detailed",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_269.jpg",
+    "descriptions": [
+      "detailed, grainy, intricate",
+      "definite, blurred, distinct",
+      "intense, cool",
+      "colorful, vibrant, contrasting",
+      "multiple color, elaborate, brown",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_276.jpg",
+    "descriptions": [
+      "detailed, representational",
+      "definite, detailed, precise lines",
+      "natural, cool, graduated",
+      "complementary, harmonious, grey, muted",
+      "single color, smooth, grey",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_052.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "definite, distinct, uneven",
+      "intense, cool",
+      "complementary, cold, mixed",
+      "no background",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, uneven, brish strokes",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_171.jpg",
+    "descriptions": [
+      "detailed, intricate",
+      "detailed, blurred, uneven",
+      "weak, light",
+      "colorless, muted, faded, ashy",
+      "multiple color, grey, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_249.jpg",
+    "descriptions": [
+      "detailed, representational",
+      "detailed, sharp, precise lines",
+      "intense, contrasting, cold, graduated, dark",
+      "rich, muddied, brown",
+      "multiple color, changing, graduated, dark",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_137.jpg",
+    "descriptions": [
+      "detailed, grainy, elaborate",
+      "definite, irregular, distinct",
+      "harmonious, vivid, warm, light",
+      "complementary, joyful, light, faded, radiant",
+      "multiple color, faded, muted, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft, frosted",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_381.jpg",
+    "descriptions": [
+      "detailed, representational",
+      "definite, precise lines",
+      "warm, vivid, rich",
+      "bright, intense, warm, harmonious",
+      "multiple color, rich, colorful, red",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, flat",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_077.jpg",
+    "descriptions": [
+      "detailed, grainy, intricate",
+      "detailed, imprecise, uneven, precise lines",
+      "intense, contrasting, bright",
+      "colorful, complementary, intense",
+      "multiple color, changing, graduated, smooth, blended",
+      "multiple instances",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_026.jpg",
+    "descriptions": [
+      "delineated, grainy, intricate",
+      "uneven, blurred, imprecise",
+      "harmonious, natural",
+      "colorful, brown, intense",
+      "single color, brown, smooth, blended",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_042.jpg",
+    "descriptions": [
+      "detailed, delineated, elaborate",
+      "detailed, precise lines, distinct",
+      "intense, rich, bright",
+      "colorful, intense, rich, vibrant, brilliant",
+      "single color, black",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_013.jpg",
+    "descriptions": [
+      "detailed, representational",
+      "precise lines, distinct",
+      "vivid, cool, muted",
+      "harmonious, vivid, pink",
+      "no background",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, soft, smooth",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_173.jpg",
+    "descriptions": [
+      "detailed, grainy, delineated",
+      "detailed, sharp, precise lines",
+      "cool, graduated, contrasting",
+      "complementary, cold, mixed",
+      "multiple color, changing",
+      "yes, single instance",
+      "no, no text",
+      "no, photo texture",
+      "no, unrealisitc"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_309.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "definite, precise lines, blurred",
+      "intense, saturated, vivid",
+      "colorful, rich, bright, intense",
+      "single color, rich, blue",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, hard",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_276.jpg",
+    "descriptions": [
+      "delineated, representational",
+      "deinifite, precise lines, sharp",
+      "cool, graduated",
+      "cool, muddied, muted",
+      "single color, grey, blended",
+      "yes, signle instance",
+      "no, no text",
+      "flat, smooth",
+      "no, unrealistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_038.jpg",
+    "descriptions": [
+      "detailed, grainy, elaborate",
+      "precise lines, uneven, irregular",
+      "harmonious, light",
+      "colorful, complementary, radiant",
+      "multiple color, blended, graduated",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_310.jpg",
+    "descriptions": [
+      "detailed, digital",
+      "definite, detailed, precise lines",
+      "intense, rich, vivid, hot",
+      "rich, complementary, brigth, joyful",
+      "multiple color, rich, colorful",
+      "yes, single instance",
+      "no, no text",
+      "photo texture, flat",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_126.jpg",
+    "descriptions": [
+      "detailed, patchy",
+      "definite, precise lines, sharp, uneven",
+      "rich, vivid",
+      "colorful, bright, radiant",
+      "multiple color, colorful, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+
+  {
+    "image_name": "art_painting/house/pic_070.jpg",
+    "descriptions": [
+      "delineated, grainy, representational",
+      "definite, imprecise, blurred, irregular",
+      "harmonious, graduated, rich",
+      "complementary, rich, mixed, faded",
+      "multiple color, rich, detailed, blended",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, brush strokes, hard",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_135.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines",
+      "intense, bright, rich, vibrant",
+      "colorful, rich, vibrant, intense, brilliant",
+      "sinfle color, red, rich",
+      "yes, single instance",
+      "yes",
+      "yes, painting",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_300.jpg",
+    "descriptions": [
+      "detailed, representational",
+      "precise lines, uneven",
+      "vivid, contrasting, intense, rich",
+      "bright, hot, contrasting",
+      "single color, rich, red",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, hard",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_577.jpg",
+    "descriptions": [
+      "delineated, representational",
+      "uneven, irregular, blurred",
+      "warm, muted, graduated",
+      "warm, harmonious, muddied",
+      "multiple color, smooth, brown",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, soft, smooth",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_137.jpg",
+    "descriptions": [
+      "detailed, intricate",
+      "detailed, sharp, precise lines",
+      "intense, rich, inspid",
+      "colorful, brilliant, vibrant, bright",
+      "yes, single color, blue",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, smooth",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/guitar/pic_125.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "definite, soft",
+      "harmonious, vivid",
+      "colorful, joyful, warm",
+      "multiple color, rich, changing",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_147.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines, uneven",
+      "harmonious, contrasting, vivid",
+      "brilliant, bright, complementary",
+      "multiple color, rich, colorful",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes, soft",
+      "yes, realistic"
+    ]
+  },
+
+  {
+    "image_name": "art_painting/elephant/pic_017.jpg",
+    "descriptions": [
+      "delineated, elaborate",
+      "definite, irregular, blurred",
+      "intense, dark",
+      "colorful, dark, brown, deep, bold",
+      "multiple color, changing, rich, brown, dark",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/guitar/pic_116.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "sharp, uneven, irregular",
+      "intense, contrasting, inspid",
+      "contrasting, brown, intense",
+      "multiple color, rich, detailed",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_160.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, blurred, uneven",
+      "intense, vivid",
+      "colorful, muted, brown, cool",
+      "multiple color, changing, smooth, blended",
+      "yes, single instance",
+      "yes",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_366.jpg",
+    "descriptions": [
+      "delineated, representational, grainy",
+      "distinct, soft",
+      "cool, contrasting, inspid",
+      "cold, colorful, contrasting",
+      "multiple color, colorful, blended",
+      "no, multiple instances",
+      "yes, dense, signature",
+      "yes, painting, smooth",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_143.jpg",
+    "descriptions": [
+      "delineated",
+      "detailed, precise lines, blurred",
+      "intense, rich, inspid",
+      "contrasting, rich, brown, deep",
+      "single color, white, grey",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_121.jpg",
+    "descriptions": [
+      "grainy, historic, detailed, representational",
+      "definite, precise lines, distinct",
+      "intense, cold, rich, inspid",
+      "complementary, blended, muddied, cold, brown",
+      "multiple color, blended, brown, rich",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, smooth",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_245.jpg",
+    "descriptions": [
+      "detailed, intricate",
+      "detailed, uneven, precise lines, irregualr",
+      "intense, contrasting",
+      "contrasting, bold, bright",
+      "multiple color, blended, graduated",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_006.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines, uneven",
+      "intense, dark, rich",
+      "colorful, dark, deep, cold",
+      "multiple color, dark, brown, deep",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, smooth",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_111.jpg",
+    "descriptions": [
+      "detailed, grainy, representational",
+      "definite, precise lines, distinct",
+      "vivid, rich, contrasting, intense",
+      "rich, contrasting, black, cold, intense",
+      "multiple colors, changing, white, yellow, rich",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft, pencil strokes",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_181.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "precise lines, definite, distinct",
+      "intense, vivid, cold, dark",
+      "colorful, cold, brown, contrasting",
+      "single color",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "no, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_043.jpg",
+    "descriptions": [
+      "detailed, digital",
+      "definite, precise lines, sharp",
+      "intense, bright, rich",
+      "colorful, joyful, complementary",
+      "multiple color, blended, smooth",
+      "yes, single instance",
+      "no, no text",
+      "no, photo texture",
+      "yes realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_229.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "uneven, irregular, distinct",
+      "intenst, contrasting, inspid",
+      "colorful, contrasting, cold, ashy",
+      "single color, green, dark",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, hard, brush strokes",
+      ""
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_107.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "detailed, uneven, blurred",
+      "rich, graduated, vivid",
+      "colorful, rich, brown, deep, vibrant",
+      "single color, blue, smooth",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_250.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "detailed, precise lines",
+      "harmonious, rich, dark, intense",
+      "muddied, brown, rich, warm",
+      "multiple color, changing",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_220.jpg",
+    "descriptions": [
+      "detailed, patchy, intricate",
+      "definite, uneven, sharp, blurred",
+      "weak, vivid",
+      "colorful, faded, muted, neutral",
+      "multiple color, blended, graduated",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_303.jpg",
+    "descriptions": [
+      "detailed, historic",
+      "definite, precise lines, distinct",
+      "intense, dark, rich, cold",
+      "rich, dark, contrasting, mixed",
+      "multiple color, blended, changing",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_127.jpg",
+    "descriptions": [
+      "detailed, historic, delineated",
+      "definite, precise lines, distinct",
+      "intense, inspid, contrasting, rich",
+      "rich, intense, brown, complementary",
+      "multiple colors, rich, brown, blended",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, smooth",
+      "yes realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_260.jpg",
+    "descriptions": [
+      "delineated, patchy",
+      "definite, uneven, blurred",
+      "harmonious, weak, muted",
+      "ashy, faded, muted, neutral",
+      "single color, white, grey",
+      "yes, single instance",
+      "yes, signature",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_072.jpg",
+    "descriptions": [
+      "detailed, grainy, elaborate",
+      "detailed, precise lines, blurred",
+      "intense, contrasting",
+      "contrasting, radiant, colorful",
+      "single color, colorful, uniform",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_028.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, distinct, blurred",
+      "vivid, black, graduated, contrasting",
+      "contrasting, intense, black, cold",
+      "multiple colors, blended, graduated, smooth, pink",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_143.jpg",
+    "descriptions": [
+      "detailed, historic, representational",
+      "soft, imprecise, blurred",
+      "vivid, contrasting, cool",
+      "contrasting, colorful, cold, mixed",
+      "single color, smooth, green, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes, smooth",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_028.jpg",
+    "descriptions": [
+      "detailed, intricate",
+      "detailed, uneven",
+      "harmonious, graduated",
+      "cool, muted, ashy",
+      "multiple color, graduated, blended",
+      "yes, single instance",
+      "no, no text",
+      "no",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_063.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines, uneven, blurred",
+      "intense, vivid, rich",
+      "colorful, bright, rich, vibrant",
+      "no, multiple color, graduated",
+      "yes, single instance",
+      "yes",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_184.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, imprecise, irregular, blurred",
+      "vivid, muted, natural",
+      "mixed, harmonious, blended",
+      "single color, brown, smooth",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes, hard",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_239.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, imprecise, blurred",
+      "warm, graduated",
+      "complementary, mixed, neutral",
+      "single color, blended",
+      "no, multiple instances",
+      "yes, signature",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_014.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines, uneven",
+      "harmonious, vivid, light",
+      "colorful, bright, radiant",
+      "single color, white, grey, uniform",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_076.jpg",
+    "descriptions": [
+      "detailed, grainy, elaborate",
+      "blurred, imprecise, uneven",
+      "vivid, rich",
+      "colorful, radiant, mixed, muted",
+      "single color, white, grey",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_193.jpg",
+    "descriptions": [
+      "delineated, grainy, intricate",
+      "definite, blurred, uneven",
+      "weak, inspid, graduated",
+      "complementary, faded, muted, ashy, cold",
+      "single color, graduated, muted, grey",
+      "no, multiple instances",
+      "yes",
+      "yes, painting",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/guitar/pic_109.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "blurred, imprecise, uneven",
+      "intense, rich, colorful",
+      "colorful, harmonious, joyful, rich",
+      "multiple color, changing, smooth, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_563.jpg",
+    "descriptions": [
+      "delineated, grainy, definite",
+      "definite, blurred, uneven",
+      " harmonious, rich, bright, warm",
+      "colorful, complementary, bright, intense, warm",
+      "multiple colors, colorful, blended, changing, green",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft, smooth",
+      "no, unrealistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_100.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, imprecise, blurred",
+      "intense, dark",
+      "contrasting, dark, deep",
+      "single color, grey, white",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_206.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "detailed, precise lines",
+      "intense, deep, dark, inspid",
+      "dark, deep, ashy, cold",
+      "single color, grey, white",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_287.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "detailed, precise lines, distinct",
+      "harmonious, vivid",
+      "colorful, complementary, radiant",
+      "mutliple color, graduated, green, detailed",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_007.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, precise lines, uneven",
+      "muted, dark, inspid",
+      "muted, faded, grey, neutral",
+      "single color, white",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_136.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines, uneven",
+      "harmonious, light, graduated",
+      "colorful, joyful",
+      "single color, blended, grey, white",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_088.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "imprecise, uneven, blurred",
+      "harmonious, natural, vivid",
+      "complementary, harmonious, mixed, muted",
+      "multiple color, blended, smooth",
+      "yes, single instance",
+      "no, no text",
+      "yes, brish strokes, painting",
+      "no, unrealistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_225.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, sharp, precise lines",
+      "intense, cold",
+      "colorful, contrasting",
+      "multiple color, changing",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_240.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "uneven, blurred, soft",
+      "harmonious, vivid, bright",
+      "rich, blended, joyful, mixed",
+      "single color, changing",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, uneven, soft",
+      "no, unrealistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_133.jpg",
+    "descriptions": [
+      "delineated, grainy, historic",
+      "definite, precise lines, sharp",
+      "intense, cold, inspid",
+      "contrasting, intense, dark, cold",
+      "multiple colors, dark",
+      "no, multiple instance",
+      "no, no text",
+      "yes, painting, uneven, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_219.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "blurred, irregular, distinct, detailed",
+      "harmonious, graduated, vivid",
+      "colorful, faded, muted, bright",
+      "multiple color, rich, detailed, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_202.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, blurred, imprecise",
+      "bright, intense, rich",
+      "colorful, intense, rich, hot",
+      "single color, graduated, rich",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_214.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "detailed, precise lines, sharp",
+      "intense, contrasting",
+      "colorful, contrasting, ashy, graduated",
+      "multiple color, graduated, rich, detailed, panoramic",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_169.jpg",
+    "descriptions": [
+      "detailed, grainy, elaborate",
+      "detailed, uneven, blurred",
+      "rich, graduated, warm",
+      "complementary, bright, mixed, radiant",
+      "single color, smooth, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/dog/pic_359.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "precise lines, irregular, definite",
+      "harmonious, graduated, muted",
+      "complementary, warm, muddied",
+      "single color, blended, changing",
+      "no, multiple instance",
+      "no, no text",
+      "yes, painting, soft",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_224.jpg",
+    "descriptions": [
+      "detailed, elaborate",
+      "soft, uneven, precise lines",
+      "intense, vivid, bright",
+      "colorful, joyful, rich, radiant, bold",
+      "no",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_066.jpg",
+    "descriptions": [
+      "delineated",
+      "deinite, uneven, distinct",
+      "light",
+      "contrasting, colorless, ashy",
+      "multiple color, changing, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_209.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "delineated, irregualr, blurred",
+      "vivid, contrasting",
+      "rich, contrasting, muddied",
+      "single color, brown, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_205.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, blurred, uneven",
+      "harmonious, light, graduated",
+      "complementary, faded, muted, neutral",
+      "multiple color, smooth, blended",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_265.jpg",
+    "descriptions": [
+      "detailed, digital, artificial",
+      "definite, precise lines, detailed",
+      "intense, bright, rich, graduated",
+      "colorful, rich, harmonious",
+      "single color, white",
+      "yes, single instance",
+      "no, no text",
+      "photo texture, flat",
+      "no, unrealistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_197.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "deinite, uneven, precise lines, blurred",
+      "harmonious, vivid",
+      "harmonious, warm, blended, graduated, faded",
+      "multiple color, graduated, smooth, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/house/pic_011.jpg",
+    "descriptions": [
+      "detailed, grainy, elaborate",
+      "definite, detailed, blurred, irregular",
+      "intense, graduated",
+      "contrasting, rich, vibrant",
+      "multiple color, rich, changing",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/elephant/pic_099.jpg",
+    "descriptions": [
+      "detailed, intricate",
+      "detailed, precise lines, distinct",
+      "intense, rich, bright",
+      "colorful, complementary, harmonious, vibrant",
+      "multiple color, rich, changing",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_099.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "definite, blurred, uneven",
+      "harmonious, light",
+      "radiant, brilliant, colorful",
+      "multiple color, black, white",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_222.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "definite, precise lines, distinct",
+      "graduated, cold, natural",
+      "complementary, cold, pink",
+      "multiple color, rich, detailed",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, soft",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/person/pic_149.jpg",
+    "descriptions": [
+      "detailed, grainy, historic",
+      "definite, precise lines, distinct",
+      "intense, dark, cold",
+      "muddied, cold, contrasting, brown",
+      "multiple color, dark, detailed, graduated",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, soft",
+      "yes, realistic"
+
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_213.jpg",
+    "descriptions": [
+      "delineated, grainy",
+      "definite, imprecise, uneven",
+      "intense, rich, contrasting",
+      "contrasting, blended, intense, bright",
+      "multiple color, colorful, blended",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/horse/pic_214.jpg                 ",
+    "descriptions": [
+      "detailed, delineated, grainy",
+      "definite, blurred, distinct",
+      "harmonious, graduated, light",
+      "harmonious, neutral, faded",
+      "multiple color, graduated",
+      "no, multiple instances",
+      "no, no text",
+      "yes, painting, soft",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_232.jpg",
+    "descriptions": [
+      "detailed, grainy, elaborate",
+      "detailed, precise lines, blurred",
+      "harmonious, vivid",
+      "complementary, bright, joyful, radiant",
+      "single color, white",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, brush strokes",
+      "no, unrealistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/giraffe/pic_261.jpg",
+    "descriptions": [
+      "detailed, grainy",
+      "definite, distinct, uneven",
+      "graduated, cold",
+      "colorful, cold, muted, ashy",
+      "single color, blended, graduated",
+      "yes, single instance",
+      "no, no text",
+      "yes, painting, pencil strokes",
+      "yes, realistic"
+    ]
+  },
+  {
+    "image_name": "art_painting/guitar/pic_102.jpg",
+    "descriptions": [
+      "detailed, delineated",
+      "sharp, precise lines",
+      "intense, contrasting, inspid",
+      "contrasting, cold, mixed, yellow",
+      "single color, brown, blended, changing",
+      "yes, single instance",
+      "yes, small writing",
+      "yes, painting, smooth",
+      "yes, realistic"
+    ]
+  }
 ]
