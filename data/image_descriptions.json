@@ -2,13 +2,13 @@
 	{
 		"image_name": "photo/person/253_0365.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"geometric shapes, cold, rich, patterned, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -16,13 +16,13 @@
 	{
 		"image_name": "photo/dog/056_0091.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational",
+			"precise lines, irregular, definite",
+			"harmonious, bright, natural",
+			"cold, muddied",
+			"landscape, nature",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -30,13 +30,13 @@
 	{
 		"image_name": "photo/person/253_0261.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"flat, pale",
+			"plain, white, shadow, interiors",
+			"yes, single instance",
+			"no, no  relevalt text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -44,41 +44,41 @@
 	{
 		"image_name": "photo/dog/n02103406_3326.jpg",
 		"descriptions:": [
-			"low-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"fuzzy, blear",
+			"blur lines, smooth",
+			"muddied, cold, natural",
+			"cold, muffled",
+			"landscape, single color, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0096.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, historic",
+			"definite, precise lines, distinct",
+			"pale, cold",
+			"muddied, gray",
+			"landscape, gray",
+			"no, multiple instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/n02106662_1922.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"definite, precise lines",
+			"intense, saturated, vivid",
+			"colorful, rich, bright, intense",
+			"landscape, rich, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -86,27 +86,27 @@
 	{
 		"image_name": "photo/person/253_0195.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, delineated",
+			"definite, precise lines, smooth",
+			"dull, pale, muted",
+			"flat, light tone",
+			"regular, white, shadow, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/horse/105_0265.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy, intricate",
+			"detailed, imprecise, uneven, precise lines",
+			"intense, contrasting, bright",
+			"colorful, complementary, intense",
+			"green, changing, smooth",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -114,41 +114,41 @@
 	{
 		"image_name": "photo/person/253_0066.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"yes, sparse text",
+			"detailed, representational, grainy, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"plane, white, shadow, interiors",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0125.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy, elaborate",
+			"blurred, precise, even",
+			"vivid, rich",
+			"colorful, radiant, mixed",
+			"single color, landscape, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/giraffe/n02439033_14322.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, cold",
+			"colorful, bright, cold",
+			"brown, muddy",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -156,27 +156,27 @@
 	{
 		"image_name": "photo/person/253_0070.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious, happy",
+			"green, landscape, neat shapes, natural",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/horse/105_0030.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, cold",
+			"colorful, bright, cold",
+			"landscape, brown, muddy",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -184,13 +184,13 @@
 	{
 		"image_name": "photo/horse/105_0092.jpg",
 		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, grainy, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"landscape, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -198,13 +198,13 @@
 	{
 		"image_name": "photo/person/253_0257.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"flat, pale",
+			"brown, precise lines, interiors",
+			"yes, single instance",
+			"no, no relevalt text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -212,27 +212,27 @@
 	{
 		"image_name": "photo/person/253_0252.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"flat, pale",
+			"white, precise lines, interiors",
+			"yes, single instance",
+			"no, no relevalt text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/n02503517_5909.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy, elaborate",
+			"blurred, precise, even",
+			"earthy, rich",
+			"colorful, natural",
+			"brown, muddy, landscape, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -240,27 +240,27 @@
 	{
 		"image_name": "photo/person/253_0307.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, detailed, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"rich, patterned, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_281.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, bright",
+			"landscape, natural, green, light blue",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -268,83 +268,83 @@
 	{
 		"image_name": "photo/person/253_0241.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"flat, pale",
+			"precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/giraffe/n02439033_10295.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated, blurred",
+			"grainy, precise lines, sharp",
+			"rich, cold",
+			"colorful, bright, cold",
+			"brown",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/guitar/063_0059.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
+		"descriptions": [
+			"detailed, grainy",
+			"blurred, imprecise, uneven",
+			"intense, rich, colorful",
+			"colorful, harmonious, joyful",
+			"plain, white",
+			"yes, single instance",
 			"yes",
-			"yes, sparse text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/giraffe/n02439033_11504.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, cold",
+			"colorful, bright, cold",
+			"landscape, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_217.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, bright",
+			"landscape, natural, green, light blue",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/056_0058.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy",
+			"definite, precise lines, blurred",
+			"intense, warm, vivid",
+			"colorful, rich, intense",
+			"precise lines, rich, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -352,13 +352,13 @@
 	{
 		"image_name": "photo/person/253_0282.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"colorful, warm",
+			"precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -366,27 +366,27 @@
 	{
 		"image_name": "photo/person/253_0310.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"landscape, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_157.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"landscape, natural, green, gray",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -394,13 +394,13 @@
 	{
 		"image_name": "photo/person/253_0116.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"smooth, precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"dark, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -408,69 +408,69 @@
 	{
 		"image_name": "photo/person/253_0102.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"thoughtful, pale",
+			"vivid, colorful",
+			"colorful, precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_246.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"landscape, natural, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
-			"yes, realistic"
+			"no, compressed"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0080.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"grainy, detailed",
+			"soft, uneven, irregular",
+			"cold, pale",
+			"pale, muddied, brown",
+			"gray, muddy",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
-			"yes, realistic"
+			"no, compressed"
 		]
 	},
 	{
 		"image_name": "photo/elephant/n02503517_10528.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"definite, precise lines, sharp",
+			"rich, vivid",
+			"colorful, bright, radiant",
+			"multiple color, colorful, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/056_0079.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"yes, sparse text",
+		"descriptions": [
+			"detailed, delineated, representational",
+			"definite, precise lines, smooth",
+			"intense, saturated, vivid",
+			"colorful, rich, bright, intense",
+			"single color, rich, green",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -478,55 +478,55 @@
 	{
 		"image_name": "photo/person/253_0303.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"green, landscape, neat shapes, natural",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/056_0087.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"yes, sparse text",
+		"descriptions": [
+			"detailed, grainy",
+			"precise lines, definite, distinct",
+			"intense, vivid, cold, dark",
+			"colorful, cold, brown, contrasting",
+			"single color",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
-			"yes, realistic"
+			"no, realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0251.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"flat, pale",
+			"precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/056_0060.jpg",
-		"descriptions:": [
-			"low-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"no, four",
-			"no",
+		"descriptions": [
+			"delineated, grainy",
+			"imprecise, irregular, blurred",
+			"cold, muted, natural",
+			"mixed, harmonious, blended",
+			"single color, white, smooth",
+			"no, multiple instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -534,125 +534,125 @@
 	{
 		"image_name": "photo/person/253_0110.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale",
+			"pale",
+			"colorful, precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_213.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"landscape, natural, green, light blue",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/guitar/063_0027.jpg",
-		"descriptions:": [
-			"low-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy",
+			"blurred, imprecise, uneven",
+			"intense, rich, colorful",
+			"colorful, harmonious, joyful",
+			"plain, white",
+			"no, multiple instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0030.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"definite, precise lines, sharp",
+			"rich, vivid",
+			"colorful, bright, radiant",
+			"multiple color, colorful, green",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/n02103406_6461.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, representational",
+			"detailed, sharp, precise lines",
+			"intense, contrasting, cold, graduated, bright",
+			"rich, muddied, brown",
+			"multiple color, changing, graduated, brow, landscape",
+			"yes, single instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/giraffe/n02439033_10279.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, cold",
+			"colorful, bright, cold",
+			"landscape, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/guitar/063_0118.jpg",
-		"descriptions:": [
-			"low-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy",
+			"blurred, imprecise, uneven",
+			"intense, rich, cold",
+			"cold, gray",
+			"gray",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
-			"yes, realistic"
+			"no, compressed"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_280.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"natural, green, gray",
+			"yes, single instance",
 			"yes",
-			"yes, sparse text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/giraffe/084_0076.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, warm",
+			"colorful, bright, warm",
+			"landscape, green",
+			"no, multiple instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -660,41 +660,41 @@
 	{
 		"image_name": "photo/person/253_0188.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly",
+			"colorful, warm",
+			"plain, white, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_002.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, cold",
+			"urban, brown, gray",
+			"no, multiple instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0100.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, vivid",
+			"colorful, bright, radiant",
+			"landscape, colorful, green",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -702,27 +702,27 @@
 	{
 		"image_name": "photo/person/253_0434.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"yes, sparse text",
+			"detailed, representational, grainy, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"plane, white, interiors",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_171.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"landscape, natural, green, light blue",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -730,13 +730,13 @@
 	{
 		"image_name": "photo/person/253_0427.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, grainy, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"precise lines, interiors",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -744,41 +744,41 @@
 	{
 		"image_name": "photo/giraffe/084_0025.jpg",
 		"descriptions:": [
-			"low-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"grainy, detailed",
+			"soft, uneven, irregular",
+			"cold, pale",
+			"pale, muddied, brown",
+			"brown, muddy",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/n02106662_25917.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, representational",
+			"detailed, sharp, precise lines",
+			"intense, contrasting, cold, graduated, bright",
+			"rich, muddied",
+			"multiple color, changing, graduated, green, landscape",
+			"yes, single instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_096.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"landscape, natural, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -786,69 +786,69 @@
 	{
 		"image_name": "photo/person/253_0185.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious, happy",
+			"interiors, gray",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_256.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"light blue, sky",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0121.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, cold",
+			"colorful, bright, radiant",
+			"landscape, brown, muddy",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/guitar/063_0013.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"yes, sparse text",
+		"descriptions": [
+			"detailed, grainy",
+			"blurred, imprecise, uneven",
+			"intense, rich, warm",
+			"warm, gray",
+			"gray, landscape, green",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
-			"no, unrealistic"
+			"no, compressed"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0099.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, cold",
+			"colorful, bright, radiant",
+			"landscape, brown, green, muddy",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -856,13 +856,13 @@
 	{
 		"image_name": "photo/giraffe/n02439033_9679.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"grainy, detailed",
+			"soft, uneven, irregular",
+			"cold, vivid",
+			"pale, muddied, green",
+			"green, muddy",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -870,13 +870,13 @@
 	{
 		"image_name": "photo/person/253_0401.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"warm, colorful, unfriendly, depressing",
+			"flat, pale",
+			"precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -884,41 +884,41 @@
 	{
 		"image_name": "photo/person/253_0142.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"yes, sparse text",
+			"detailed, representational, grainy, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"plane, white, interiors",
+			"yes, single instance",
+			"no, no relevant text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0041.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
+		"descriptions": [
+			"detailed, elaborate",
+			"detailed, precise lines",
+			"intense, bright, rich, vibrant",
+			"colorful, rich, vibrant, intense, brilliant",
+			"landscape, green",
+			"yes, single instance",
 			"yes",
-			"no",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0087.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
+		"descriptions": [
+			"grainy, historic, representational",
+			"blur lines, smooth",
+			"cold, rich, inspid",
+			"complementary, blended, muddied, cold, brown",
+			"black",
+			"yes, single instance",
 			"yes",
-			"no",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -926,13 +926,13 @@
 	{
 		"image_name": "photo/person/253_0383.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"flat, pale",
+			"precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -940,69 +940,69 @@
 	{
 		"image_name": "photo/person/253_0309.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, grainy, delineated",
+			"precise, definite, detailed",
+			"vivid, cold",
+			"joyful, harmonious",
+			"plane, white, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_230.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"light blue, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_166.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, grainy",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"gray sky, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/horse/105_0072.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, elaborate",
+			"detailed, precise lines",
+			"intense, bright, rich, vibrant",
+			"vibrant, intense, cold",
+			"plain, white",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_054.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"light blue, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1010,55 +1010,55 @@
 	{
 		"image_name": "photo/person/253_0154.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, grainy, delineated",
+			"precise, definite, detailed",
+			"vivid, warm",
+			"joyful, harmonious",
+			"plane, white, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/horse/105_0041.jpg",
-		"descriptions:": [
-			"mid-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy, intricate",
+			"detailed, imprecise, uneven, precise lines",
+			"intense, contrasting, bright",
+			"cold, complementary, intense",
+			"green, changing, smooth",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_007.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"blue sky, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/guitar/063_0106.jpg",
-		"descriptions:": [
-			"low-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy",
+			"blurred, imprecise, uneven",
+			"intense, rich, cold",
+			"cold",
+			"plain, black",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1066,13 +1066,13 @@
 	{
 		"image_name": "photo/elephant/064_0120.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational",
+			"smooth, grainy, blur lines",
+			"muddied, cold, natural",
+			"cold, muffled",
+			"landscape, natural, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1080,55 +1080,55 @@
 	{
 		"image_name": "photo/elephant/064_0113.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, delineated, representational",
+			"smooth, grainy",
+			"muddied, cold, natural",
+			"cold, muffled",
+			"gray, urban",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_276.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"grainy, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"gray sky, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_044.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"grainy, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"gray sky, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_038.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"landscape, natural, green, gray",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1136,41 +1136,41 @@
 	{
 		"image_name": "photo/person/253_0274.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"colorful, warm",
+			"green, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_262.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"grainy, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"blue, natural, green, gray sky",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_147.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"natural, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1178,125 +1178,125 @@
 	{
 		"image_name": "photo/person/253_0221.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"detailed, representational, delineated",
+			"definite, precise lines, smooth",
+			"dull, pale, muted",
+			"flat, light tone",
+			"regular, white, shadow, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0112.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, representational",
+			"definite, precise lines, distinct",
+			"vivid, cold",
+			"muddied, muffled",
+			"landscape, sandy, natural",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/n02103406_4849.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"detailed, sharp, precise lines",
+			"cool, contrasting",
+			"complementary, cold, mixed",
+			"multiple color, changing",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_001.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"landscape, natural, green, blue sky",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/giraffe/n02439033_10491.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"grainy, precise lines, sharp",
+			"rich, warm",
+			"colorful, bright, warm",
+			"green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/guitar/n03467517_17233.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"sharp, precise lines",
+			"intense, contrasting, inspid",
+			"contrasting, cold, mixed",
+			"plain, black",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/dog/n02103406_6857.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"definite, precise lines, distinct",
+			"pale, rich, cold",
+			"rich, contrasting, mixed",
+			"gray, changing",
+			"yes, single instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0119.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, grainy, elaborate",
+			"blurred, precise, even",
+			"earthy, rich",
+			"colorful, natural",
+			"brown, muddy, urban",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0070.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"definite, precise lines, sharp",
+			"rich, vivid",
+			"colorful, bright, radiant",
+			"multiple color, colorful, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1304,13 +1304,13 @@
 	{
 		"image_name": "photo/person/253_0254.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale",
+			"pale",
+			"colorful, precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1318,27 +1318,27 @@
 	{
 		"image_name": "photo/giraffe/084_0051.jpg",
 		"descriptions:": [
-			"low-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"no, two",
-			"no",
+			"grainy, detailed",
+			"soft, uneven, irregular",
+			"cold",
+			"pale, muddied, gray",
+			"lanscape, gray",
+			"no, multiple instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_160.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, warm",
+			"landscape, natural, green, blue sky",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
@@ -1346,55 +1346,55 @@
 	{
 		"image_name": "photo/person/253_0285.jpg",
 		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+			"representational, delineated, detailed",
+			"definite, precise lines, smooth",
+			"dull, pale, unfriendly, depressing",
+			"colorful, warm",
+			"precise lines, interiors",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0097.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
+		"descriptions": [
+			"detailed, delineated",
+			"definite, precise lines, sharp",
+			"rich, vivid",
+			"colorful, bright, radiant",
+			"plain, blue",
+			"yes, single instance",
 			"yes",
-			"no",
 			"yes, photo",
-			"yes, realistic"
+			"no, miniature model"
 		]
 	},
 	{
 		"image_name": "photo/horse/n02374451_4553.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"yes",
-			"no",
+		"descriptions": [
+			"detailed, delineated",
+			"precise lines, sharp",
+			"rich, warm",
+			"colorful, bright, warm",
+			"landscape, green",
+			"yes, single instance",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "photo/house/pic_027.jpg",
-		"descriptions:": [
-			"high-level",
-			"",
-			"",
-			"yes, colorful",
-			"",
-			"no, five",
-			"no",
+		"descriptions": [
+			"detailed, intricate, delineated",
+			"detailed, sharp, precise lines",
+			"intense, rich, harmonious",
+			"brilliant, vibrant, cold",
+			"landscape, natural, green, blue sky",
+			"no, multiple instances",
+			"no, no text",
 			"yes, photo",
 			"yes, realistic"
 		]
