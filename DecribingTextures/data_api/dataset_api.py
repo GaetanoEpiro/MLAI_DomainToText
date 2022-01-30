@@ -73,7 +73,7 @@ class TextureDescriptionData:
         return img_data
 
     def load_img(self, img_name):
-        img_fpath = os.path.join('/content/drive/MyDrive/', 'images', img_name)
+        img_fpath = os.path.join('/content/MLAI_DomainToText/PACS/kfold/', img_name)
         img = Image.open(img_fpath).convert('RGB')
         return img
 

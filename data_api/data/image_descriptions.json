@@ -1344,7 +1344,7 @@
 		]
 	},
 	{
-		"image_name": "art_painting/horse/pic_214.jpg                 ",
+		"image_name": "art_painting/horse/pic_214.jpg",
 		"descriptions": [
 			"detailed, delineated, grainy",
 			"definite, blurred, distinct",
@@ -1401,7 +1401,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0365.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -1415,7 +1415,7 @@
 	},
 	{
 		"image_name": "photo/dog/056_0091.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational",
 			"precise lines, irregular, definite",
 			"harmonious, bright, natural",
@@ -1429,7 +1429,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0261.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -1443,7 +1443,7 @@
 	},
 	{
 		"image_name": "photo/dog/n02103406_3326.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"fuzzy, blear",
 			"blur lines, smooth",
 			"muddied, cold, natural",
@@ -1485,7 +1485,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0195.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, delineated",
 			"definite, precise lines, smooth",
 			"dull, pale, muted",
@@ -1513,7 +1513,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0066.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, grainy, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -1555,7 +1555,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0070.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -1583,7 +1583,7 @@
 	},
 	{
 		"image_name": "photo/horse/105_0092.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, grainy, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -1597,7 +1597,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0257.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -1611,7 +1611,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0252.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -1639,7 +1639,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0307.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, detailed, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -1667,7 +1667,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0241.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -1751,7 +1751,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0282.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -1765,7 +1765,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0310.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -1793,7 +1793,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0116.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"smooth, precise, definite, detailed",
 			"vivid, warm",
@@ -1807,7 +1807,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0102.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"thoughtful, pale",
@@ -1835,7 +1835,7 @@
 	},
 	{
 		"image_name": "photo/elephant/064_0080.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"grainy, detailed",
 			"soft, uneven, irregular",
 			"cold, pale",
@@ -1877,7 +1877,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0303.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -1905,7 +1905,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0251.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -1933,7 +1933,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0110.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale",
@@ -2059,7 +2059,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0188.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly",
@@ -2101,7 +2101,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0434.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, grainy, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -2129,7 +2129,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0427.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, grainy, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -2143,7 +2143,7 @@
 	},
 	{
 		"image_name": "photo/giraffe/084_0025.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"grainy, detailed",
 			"soft, uneven, irregular",
 			"cold, pale",
@@ -2185,7 +2185,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0185.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -2255,7 +2255,7 @@
 	},
 	{
 		"image_name": "photo/giraffe/n02439033_9679.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"grainy, detailed",
 			"soft, uneven, irregular",
 			"cold, vivid",
@@ -2269,7 +2269,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0401.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"warm, colorful, unfriendly, depressing",
@@ -2283,7 +2283,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0142.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, grainy, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -2325,7 +2325,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0383.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -2339,7 +2339,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0309.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, grainy, delineated",
 			"precise, definite, detailed",
 			"vivid, cold",
@@ -2409,7 +2409,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0154.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, grainy, delineated",
 			"precise, definite, detailed",
 			"vivid, warm",
@@ -2465,7 +2465,7 @@
 	},
 	{
 		"image_name": "photo/elephant/064_0120.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational",
 			"smooth, grainy, blur lines",
 			"muddied, cold, natural",
@@ -2479,7 +2479,7 @@
 	},
 	{
 		"image_name": "photo/elephant/064_0113.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, delineated, representational",
 			"smooth, grainy",
 			"muddied, cold, natural",
@@ -2535,7 +2535,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0274.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -2577,7 +2577,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0221.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"detailed, representational, delineated",
 			"definite, precise lines, smooth",
 			"dull, pale, muted",
@@ -2703,7 +2703,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0254.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale",
@@ -2717,7 +2717,7 @@
 	},
 	{
 		"image_name": "photo/giraffe/084_0051.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"grainy, detailed",
 			"soft, uneven, irregular",
 			"cold",
@@ -2745,7 +2745,7 @@
 	},
 	{
 		"image_name": "photo/person/253_0285.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"representational, delineated, detailed",
 			"definite, precise lines, smooth",
 			"dull, pale, unfriendly, depressing",
@@ -2801,7 +2801,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_232.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2815,7 +2815,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_357.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2829,7 +2829,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_194.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2843,7 +2843,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_096.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"mid",
@@ -2857,7 +2857,7 @@
 	},
 	{
 		"image_name": "cartoon/guitar/pic_074.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"mid",
@@ -2871,7 +2871,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_219.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"mid",
@@ -2885,7 +2885,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_381.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"mid",
@@ -2899,7 +2899,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_353.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2913,7 +2913,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_106.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2927,7 +2927,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_218.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2941,7 +2941,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_056.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2955,7 +2955,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_383.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2969,7 +2969,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_031.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2983,7 +2983,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_121.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -2997,7 +2997,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_260.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3011,7 +3011,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_354.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3025,7 +3025,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_010.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3039,7 +3039,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_042.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3053,7 +3053,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_076.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3067,7 +3067,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_043.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3081,7 +3081,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_471.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3095,7 +3095,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_195.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3109,7 +3109,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_339.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3123,7 +3123,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_390.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3137,7 +3137,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_179.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3151,7 +3151,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_065.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3165,7 +3165,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_326.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3179,7 +3179,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_496.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3193,7 +3193,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_337.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3207,7 +3207,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_080.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3221,7 +3221,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_393.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3235,7 +3235,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_092.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3249,7 +3249,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_177.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3263,7 +3263,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_118.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3277,7 +3277,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_376.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3291,7 +3291,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_071.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3305,7 +3305,7 @@
 	},
 	{
 		"image_name": "cartoon/guitar/pic_060.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"mid-level",
 			"precise lines",
 			"low",
@@ -3319,7 +3319,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_166.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"wave lines",
 			"low",
@@ -3333,7 +3333,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_175.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"mid-level",
 			"precise lines",
 			"low",
@@ -3347,7 +3347,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_281.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3361,7 +3361,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_259.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3375,7 +3375,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_135.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"wave lines",
 			"low",
@@ -3389,7 +3389,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_313.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3403,7 +3403,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_218.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3417,7 +3417,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_163.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3431,7 +3431,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_161.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3445,7 +3445,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_065.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3459,7 +3459,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_135.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3473,7 +3473,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_003.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"mid-level",
 			"precise lines",
 			"low",
@@ -3487,7 +3487,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_254.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3501,7 +3501,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_194.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3515,7 +3515,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_178.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3529,7 +3529,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_011.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"mid-level",
 			"precise lines",
 			"low",
@@ -3543,7 +3543,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_172.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3557,7 +3557,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_317.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3571,7 +3571,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_379.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3585,7 +3585,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_080.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3599,7 +3599,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_333.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3613,7 +3613,7 @@
 	},
 	{
 		"image_name": "cartoon/guitar/pic_024.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3627,7 +3627,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_166.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3641,7 +3641,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_025.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3655,7 +3655,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_132.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3669,7 +3669,7 @@
 	},
 	{
 		"image_name": "cartoon/guitar/pic_063.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3683,7 +3683,7 @@
 	},
 	{
 		"image_name": "cartoon/guitar/pic_077.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3697,7 +3697,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_003.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3711,7 +3711,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_083.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3725,7 +3725,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_200.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3739,7 +3739,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_024.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3753,7 +3753,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_454.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3767,7 +3767,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_223.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3781,7 +3781,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_264.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3795,7 +3795,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_237.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3809,7 +3809,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_352.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3823,7 +3823,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_055.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3837,7 +3837,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_357.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3851,7 +3851,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_084.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3865,7 +3865,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_197.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3879,7 +3879,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_021.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3893,7 +3893,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_044.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3907,7 +3907,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_058.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"mid-level",
 			"precise lines",
 			"low",
@@ -3921,7 +3921,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_042.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3935,7 +3935,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_138.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3949,7 +3949,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_447.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3963,7 +3963,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_156.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3977,7 +3977,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_216.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -3991,7 +3991,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_211.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"mid",
@@ -4005,7 +4005,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_182.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4019,7 +4019,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_312.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4033,7 +4033,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_340.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4047,7 +4047,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_233.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"mid",
@@ -4061,7 +4061,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_400.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4075,7 +4075,7 @@
 	},
 	{
 		"image_name": "cartoon/elephant/pic_290.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"mid-level",
 			"precise lines",
 			"mid",
@@ -4089,7 +4089,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_193.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"high-level",
 			"precise lines",
 			"high",
@@ -4103,7 +4103,7 @@
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_122.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4117,7 +4117,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_331.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4131,7 +4131,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_025.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4145,7 +4145,7 @@
 	},
 	{
 		"image_name": "cartoon/person/pic_041.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4159,7 +4159,7 @@
 	},
 	{
 		"image_name": "cartoon/house/pic_253.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4173,7 +4173,7 @@
 	},
 	{
 		"image_name": "cartoon/dog/pic_017.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"mid-level",
 			"precise lines",
 			"mid",
@@ -4187,7 +4187,7 @@
 	},
 	{
 		"image_name": "cartoon/horse/pic_186.jpg",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"precise lines",
 			"low",
@@ -4649,7 +4649,7 @@
 	},
 	{
 		"image_name": "sketch/dog/n02103406_5216-1.png",
-		"descriptions:": [
+		"descriptions": [
 			"delineated",
 			"irregular, sharp, marked",
 			"no colors",
@@ -4663,7 +4663,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_15669-3.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -4677,7 +4677,7 @@
 	},
 	{
 		"image_name": "sketch/guitar/n02676566_9612-2.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light irregular lines",
 			"no colors",
@@ -4691,7 +4691,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_12792-1.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light irregular lines",
 			"no colors",
@@ -4705,7 +4705,7 @@
 	},
 	{
 		"image_name": "sketch/person/12127.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -4719,7 +4719,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_15307-5.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4733,7 +4733,7 @@
 	},
 	{
 		"image_name": "sketch/person/12208.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -4747,7 +4747,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_8718-5.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4761,7 +4761,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_257-6.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -4775,7 +4775,7 @@
 	},
 	{
 		"image_name": "sketch/elephant/n02503517_5420-1.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4789,7 +4789,7 @@
 	},
 	{
 		"image_name": "sketch/giraffe/n02439033_10295-5.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4803,7 +4803,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_1189-4.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4817,7 +4817,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_245-5.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4831,7 +4831,7 @@
 	},
 	{
 		"image_name": "sketch/guitar/n03272010_3732-4.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked irregular lines",
 			"no colors",
@@ -4845,7 +4845,7 @@
 	},
 	{
 		"image_name": "sketch/dog/5358.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -4859,7 +4859,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_14399-3.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked irregular lines",
 			"no colors",
@@ -4873,7 +4873,7 @@
 	},
 	{
 		"image_name": "sketch/giraffe/n02439033_11683-6.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked irregular lines",
 			"no colors",
@@ -4887,7 +4887,7 @@
 	},
 	{
 		"image_name": "sketch/person/12145.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light irregular lines",
 			"no colors",
@@ -4901,7 +4901,7 @@
 	},
 	{
 		"image_name": "sketch/giraffe/n02439033_6552-3.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4915,7 +4915,7 @@
 	},
 	{
 		"image_name": "sketch/dog/n02109525_16346-8.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked irregular lines",
 			"no colors",
@@ -4929,7 +4929,7 @@
 	},
 	{
 		"image_name": "sketch/elephant/n02503517_8901-1.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4943,7 +4943,7 @@
 	},
 	{
 		"image_name": "sketch/dog/n02106662_8511-5.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked irregular lines",
 			"no colors",
@@ -4957,7 +4957,7 @@
 	},
 	{
 		"image_name": "sketch/elephant/n02503517_6043-4.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4971,7 +4971,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_6207-1.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4985,7 +4985,7 @@
 	},
 	{
 		"image_name": "sketch/elephant/n02503517_8518-6.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -4999,7 +4999,7 @@
 	},
 	{
 		"image_name": "sketch/dog/n02106662_18922-8.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -5013,7 +5013,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_15440-5.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -5027,7 +5027,7 @@
 	},
 	{
 		"image_name": "sketch/horse/n02374451_2825-10.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -5041,7 +5041,7 @@
 	},
 	{
 		"image_name": "sketch/giraffe/n02439033_11130-1.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -5055,7 +5055,7 @@
 	},
 	{
 		"image_name": "sketch/giraffe/n02439033_11328-2.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -5069,7 +5069,7 @@
 	},
 	{
 		"image_name": "sketch/giraffe/7388.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",
@@ -5083,7 +5083,7 @@
 	},
 	{
 		"image_name": "sketch/dog/n02103406_2209-1.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -5097,7 +5097,7 @@
 	},
 	{
 		"image_name": "sketch/dog/n02103406_6530-6.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"marked lines",
 			"no colors",
@@ -5111,7 +5111,7 @@
 	},
 	{
 		"image_name": "sketch/dog/5333.png",
-		"descriptions:": [
+		"descriptions": [
 			"low-level",
 			"light lines",
 			"no colors",

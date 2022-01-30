@@ -9,6 +9,9 @@ from distutils.dir_util import copy_tree
 import torch
 from torch.utils.data import DataLoader
 
+import sys
+sys.path.append('/content/MLAI_DomainToText/DecribingTextures')
+
 from data_api.dataset_api import ImgOnlyDataset, PhraseOnlyDataset, WordEncoder
 from data_api.eval_retrieve import log_to_summary
 from models.layers.pretrained_word_embed import get_word_embed

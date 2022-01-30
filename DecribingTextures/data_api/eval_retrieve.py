@@ -94,7 +94,7 @@ def retrieve_eval(match_scores, dataset=None, split='val', mode='img2phrase',
     metrics['r_precision'] = r_precision_
     metrics['mean_average_precision'] = mean_average_precision_
 
-    for k in [5, 10, 20, 50, 100]:
+    for k in [5, 10, 20, 50, 60]:
         precision_at_k_ = mean_precision_at_k(retrieve_binary_lists, k)
         recall_at_k_ = mean_recall_at_k(retrieve_binary_lists, k, gt_count=None)
         metrics['precision_at_%03d' % k] = precision_at_k_
@@ -121,7 +121,7 @@ def retrieve_eval(match_scores, dataset=None, split='val', mode='img2phrase',
 
         precisions = list()
         recalls = list()
-        for k in range(1, 101):
+        for k in range(1, 61):
             precisions.append(mean_precision_at_k(retrieve_binary_lists, k))
             recalls.append(mean_recall_at_k(retrieve_binary_lists, k, gt_count=None))
 
@@ -162,11 +162,11 @@ def plot_precision_recall_curves(mode, precisions, recalls, visualize_path):
     axes[0].set_title('Precision-recall curve')
     axes[0].set_xlabel('Recall')
     axes[0].set_ylabel('Precision')
-    axes[1].plot(range(1, 101), recalls)
+    axes[1].plot(range(1, 61), recalls)
     axes[1].set_title('Top-k recall')
     axes[1].set_xlabel('Top-k')
     axes[1].set_ylabel('Recall')
-    axes[2].plot(range(1, 101), precisions)
+    axes[2].plot(range(1, 61), precisions)
     axes[2].set_title('Top-k precision')
     axes[2].set_xlabel('Top-k')
     axes[2].set_ylabel('Precision')

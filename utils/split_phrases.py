@@ -1,7 +1,7 @@
 import json
 import os
 
-path = '/content/MLAI_DomainToText/DecribingTextures/data_api/data/'
+path = '/content/MLAI_DomainToText/data_api/data/'
 
 def split_phrases(): 
     img_data_dict = dict()
@@ -49,7 +49,10 @@ def split_phrases():
         import collections
         sorted_x = sorted(d.items(),reverse=True, key=lambda kv: kv[1])
         sorted_dict = collections.OrderedDict(sorted_x)
-        with open(path + 'word_freq_1.json', 'w') as f3:
+        with open(path + 'phrase_freq.txt', 'w') as f3:
             for key in list(sorted_dict.keys()):
                 f3.write(key + " : " + str(d[key]))
                 f3.write("\n")
+
+if __name__ == "__main__":
+    split_phrases()
