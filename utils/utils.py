@@ -18,12 +18,12 @@ def read_images(images):
 
             images.append(fields[0])
 
-def select_random(number_of_samples, out_array):
+def select_random(number_of_samples, out_array, in_array):
 
     for n in range(int(number_of_samples)):
-        idx = np.random.randint(0, len(images))
+        idx = np.random.randint(0, len(in_array))
 
-        out_array.append(images.pop(idx))
+        out_array.append(in_array.pop(idx))
 
 def write_splits_json(test, val, train):
     DatasetJson = {'test' : test, 'val' : val, 'train' : train}
@@ -37,17 +37,19 @@ class Utils:
         self.validation = []
         self.training = []
 
-        read_images(images)
+        read_images(self.images)
 
-        self.number_of_images = len(images)
+        self.number_of_images = len(self.images)
 
         self.nTraining = train * self.number_of_images
         self.nValidation = val * self.number_of_images
         self.nTest = test * self.number_of_images
 
-        np.random.shuffle(images)
+        np.random.shuffle(self.images)
 
-        select_random(self.nValidation, self.validation)
-        select_random(self.nTraining, self.training)
+        select_random(self.nValidation, self.validation, self.images)
+        select_random(self.nTraining, self.training, self.images)
 
         write_splits_json(self.images, self.validation, self.training)
+
+        print('Generated image splits')

@@ -4,10 +4,12 @@ import torch
 import sys
 import torch.nn as nn
 import numpy as np
+
 sys.path.append('./model')
 sys.path.append('./datasets')
 sys.path.append('./metric')
 sys.path.append('./utils')
+
 from model.build_gen import  Generator,Standard_Classifier
 from tqdm import tqdm
 from numpy import dot
@@ -15,7 +17,6 @@ from model.triplet_match.model import TripletMatch
 from utils import Utils
 
 from datasets.dataset_read import dataset_read_eval
-
 
 def normalize(v):
     norm = np.linalg.norm(v)
@@ -26,12 +27,11 @@ def normalize(v):
 def cosine_sim(a,b):
     return ((dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b)))+1)
 
-
 # Training settings
 parser = argparse.ArgumentParser(description='PyTorch Implementation')
 
 parser.add_argument('--target', type=str, default='ArtPainting', metavar='N', help='target dataset')
-parser.add_argument('--path_to_txt', type=str,default='/content/MLAI_DomainToText/data/PACS', help='path to the txt files')
+parser.add_argument('--path_to_txt', type=str,default='/content/MLAI_DomainToText/data_api/PACS', help='path to the txt files')
 parser.add_argument('--path_to_dataset', type=str, default='/content/MLAI_DomainToText/',help='path to the dataset')
 parser.add_argument('--num_classes', type=int, default=7, help='size for the crop')
 parser.add_argument('--gpu', type=int, default=0,help='gpu index')
@@ -45,11 +45,9 @@ args = parser.parse_args()
 
 torch.cuda.set_device(args.gpu)
 
-
 def main():
     
-    #TODO
-    Utils(args.train, args.val, args.test)
+    Utils(args.num_training, args.num_validation, args.num_test)
 
     drive_path = '/content/drive/MyDrive/'
 
