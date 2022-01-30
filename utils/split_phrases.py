@@ -46,7 +46,10 @@ def split_phrases():
                     d[word] = 1
             
         # Print the contents of dictionary
+        import collections
+        sorted_x = sorted(d.items(),reverse=True, key=lambda kv: kv[1])
+        sorted_dict = collections.OrderedDict(sorted_x)
         with open(path + 'word_freq_1.json', 'w') as f3:
-            for key in list(d.keys()):
+            for key in list(sorted_dict.keys()):
                 f3.write(key + " : " + str(d[key]))
                 f3.write("\n")
