@@ -1,7 +1,7 @@
 import json
 import os
 
-path= path = '/content/MLAI_DomainToText/DecribingTextures/data_api/data/'
+path = '/content/MLAI_DomainToText/DecribingTextures/data_api/data/'
 
 def split_phrases(): 
     img_data_dict = dict()
@@ -20,7 +20,7 @@ def split_phrases():
 
     with open(os.path.join(path, 'images_descr.json'), 'r') as text:
         
-    # Create an empty dictionary
+        # Create an empty dictionary
         d = dict()
             
         # Loop through each line of the file
