@@ -2802,1400 +2802,1400 @@
 	{
 		"image_name": "cartoon/person/pic_232.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_357.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes",
-			"white",
+			"dull, pale, muted",
+			"yes, colorful",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_194.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes",
+			"dull, pale, muted",
+			"yes, colorful",
 			"light blue",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_096.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
+			"vivid, cold",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"yes",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_074.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
+			"vivid, cold",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"yes, not relevant",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_219.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated",
 			"precise lines",
-			"mid",
+			"vivid, cold",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_381.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
-			"no",
+			"vivid, cold",
+			"no, no shades",
 			"white with green frame",
 			"yes, single instance",
 			"yes, not relevant",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_353.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_106.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_218.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level. delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"yes, dense",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_056.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
 			"green-colored with shades of cream",
 			"yes, single instance",
 			"yes, dense",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_383.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"no, multiple instances",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_031.jpg",
 		"descriptions": [
-			"low-level",
+			"high-level, detailed, delineated, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_121.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_260.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_354.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"yes, sparse",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_010.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_042.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_076.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_043.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"no, multiple instances",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_471.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no, no shades",
 			"light blue and white",
 			"yes, single instance",
 			"yes, sparse",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_195.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_339.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
-			"yes"
+			"yes, cartoon",
+			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_390.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level,grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"no, multiple instances",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_179.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_065.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_326.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_496.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_337.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_080.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_393.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no, no shades",
 			"orange with white frame",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_092.jpg",
 		"descriptions": [
-			"low-level",
+			"high-level, detailed, delineated, representational",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_177.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"no, multiple instances",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_118.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_376.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_071.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_060.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, detailed, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
-			"yes"
+			"yes, cartoon",
+			"yes, realistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_166.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"wave lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_175.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, detailed, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"yes",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_281.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_259.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"no, multiple instances",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_135.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"wave lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_313.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_218.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_163.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_161.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_065.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_135.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
 			"green-colored with some shades of grey",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_003.jpg",
 		"descriptions": [
-			"mid-level",
+			"high-level, detailed, delineated, representational",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
 			"ligh blue",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_254.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_194.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_178.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_011.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, representational, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_172.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_317.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_379.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no, no shades",
 			"cream-colored",
 			"no, multiple instances",
 			"yes, sparse",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_080.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_333.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_024.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_166.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_025.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_132.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level. delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_063.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"no, multiple instances",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_077.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_003.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_083.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no, no shades",
 			"white with a purple circle",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_200.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_024.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_454.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_223.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_264.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no, no shades",
 			"green-colored",
 			"yes, single instance",
 			"yes",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_237.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_352.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"yes",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_055.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"yes",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_357.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_084.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"yes",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_197.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, grainy, representational, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_021.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_044.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_058.jpg",
 		"descriptions": [
-			"mid-level",
+			"high-level, delineated, detailed, representational",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_042.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
 			"white and gray checkered",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_138.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_447.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_156.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_216.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_211.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
+			"vivid, cold",
 			"yes, colorful",
 			"light blue, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_182.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_312.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_340.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_233.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"mid",
-			"no",
+			"vivid, cold",
+			"no, no shades",
 			"light blue, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_400.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, grayscale",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_290.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, detailed, delineated",
 			"precise lines",
-			"mid",
+			"vivid, cold",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_193.jpg",
 		"descriptions": [
-			"high-level",
+			"high-level, delineated, detailed, representational",
 			"precise lines",
-			"high",
+			"intense, rich, harmonious",
 			"yes, colorful",
 			"blue, green, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_122.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_331.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"yes",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_025.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_041.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_253.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy, delineated",
 			"precise lines",
-			"low",
+			"dull, pale, muted",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_017.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"mid",
+			"vivid, cold",
 			"yes, colorful",
-			"white",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_186.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no, no shades",
+			"single color, white",
 			"yes, single instance",
 			"no, no text",
-			"no",
+			"yes, cartoon",
 			"no, unrealistic"
 		]
 	},
