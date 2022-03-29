@@ -7,10 +7,10 @@
 			"intense, harmonious, saturated, vibrant, vivid",
 			"colorful, complementary, rich, warm",
 			"single color, colorful, rich, uniform",
-			"no, multiple instances",
-			"no, no text",
-			"no, photo texture",
-			"no, unrealistic"
+			"multiple instances",
+			"no text",
+			"photo texture",
+			"unrealistic"
 		]
 	},
 	{
@@ -21,10 +21,10 @@
 			"intense, dark",
 			"grey, deep, faded, ashy",
 			"multiple color, muted, graduated",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -35,10 +35,10 @@
 			"intense, muted, contrasting, cool",
 			"colorful, cool, muted, muddied",
 			"multiple color, changing, blurred",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -49,24 +49,24 @@
 			"weak, graduated, inspid",
 			"muted, faded, neutral",
 			"single color, uniform, grey, white",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, painting, pencil strokes",
-			"no, unrealistic"
+			"painting, pencil strokes",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "art_painting/guitar/pic_129.jpg",
 		"descriptions": [
 			"digital, detailed",
-			"definite, precise",
+			"definite, precise lines",
 			"intense, harmonious, contrasting",
 			"complementary, mixed",
 			"multiple color, rich",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"photo texture",
-			"yes, realisitc"
+			"realisitc"
 		]
 	},
 	{
@@ -77,10 +77,10 @@
 			"intense, dark, contrasting",
 			"contrasting, cold, deep, dark",
 			"single color, dark",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, uneven",
-			"yes, realistic"
+			"uneven",
+			"realistic"
 		]
 	},
 	{
@@ -91,10 +91,10 @@
 			"harmonious, bright, vivid",
 			"colorful, complementary, blended, graduated, warm",
 			"multiple color, rich, colorful, changing, graduated",
-			"no, multiple instances",
-			"no, no text",
-			"yes, uneven, flat",
-			"no, unrealistic"
+			"multiple instances",
+			"no text",
+			"uneven, flat",
+			"unrealistic"
 		]
 	},
 	{
@@ -105,10 +105,10 @@
 			"intense, bright, vivid",
 			"colorful, complementary, rich",
 			"multiple color, colorful",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"photo texture",
-			"yes, realistic"
+			"realistic"
 		]
 	},
 	{
@@ -119,10 +119,10 @@
 			"harmonious, vivid, natural",
 			"colorful, complementary, bright",
 			"multiple color, rich, panoramic, smooth",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -133,10 +133,10 @@
 			"vivid, cold, natural",
 			"cold, grey, muted, complementary, harmonious",
 			"multiple color, rich, changing, panoramic",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, uneven, soft",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, uneven, soft",
+			"realistic"
 		]
 	},
 	{
@@ -147,10 +147,10 @@
 			"intense, vibrant, saturated",
 			"colorful, rich, bold, vibrant, complementary",
 			"multiple color, changing, red, colorful",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting",
-			"no, unrealistic"
+			"multiple instances",
+			"no text",
+			"painting",
+			"unrealistic"
 		]
 	},
 	{
@@ -161,10 +161,10 @@
 			"natural, cool, vivid",
 			"complementary, harmonious, bright, joyful",
 			"multiple color, smooth, blended, white",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, soft, frosted",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, soft, frosted",
+			"realistic"
 		]
 	},
 	{
@@ -175,10 +175,10 @@
 			"harmonious, vivid, warm, graduated",
 			"bright, joyful, harmonious",
 			"multiple color, colorful, detailed",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft, smooth",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -189,10 +189,10 @@
 			"harmonious, vivid, natural",
 			"colorful, harmonious, joyful, radiant",
 			"multiple color, smooth, panoramic",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft, frosted",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft, frosted",
+			"realistic"
 		]
 	},
 	{
@@ -203,10 +203,10 @@
 			"harmonious, rich",
 			"contrasting, muddied, mixed",
 			"single color, brown, graduated",
-			"no, multiple instances",
-			"yes, signature",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"multiple instances",
+			"signature",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -217,10 +217,10 @@
 			"inspid, vivid, cool",
 			"contrasting, mixed, intense",
 			"multiple color, rich, detailed",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -231,10 +231,10 @@
 			"intense, cool",
 			"colorful, vibrant, contrasting",
 			"multiple color, elaborate, brown",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"multiple instances",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -245,10 +245,10 @@
 			"natural, cool, graduated",
 			"complementary, harmonious, grey, muted",
 			"single color, smooth, grey",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft",
+			"realistic"
 		]
 	},
 	{
@@ -259,10 +259,10 @@
 			"intense, cool",
 			"complementary, cold, mixed",
 			"no background",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, uneven, brish strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, uneven, brish strokes",
+			"realistic"
 		]
 	},
 	{
@@ -273,10 +273,10 @@
 			"weak, light",
 			"colorless, muted, faded, ashy",
 			"multiple color, grey, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting",
+			"unrealistic"
 		]
 	},
 	{
@@ -287,10 +287,10 @@
 			"intense, contrasting, cold, graduated, dark",
 			"rich, muddied, brown",
 			"multiple color, changing, graduated, dark",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -301,10 +301,10 @@
 			"harmonious, vivid, warm, light",
 			"complementary, joyful, light, faded, radiant",
 			"multiple color, faded, muted, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft, frosted",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft, frosted",
+			"realistic"
 		]
 	},
 	{
@@ -315,10 +315,10 @@
 			"warm, vivid, rich",
 			"bright, intense, warm, harmonious",
 			"multiple color, rich, colorful, red",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, flat",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, flat",
+			"realistic"
 		]
 	},
 	{
@@ -330,9 +330,9 @@
 			"colorful, complementary, intense",
 			"multiple color, changing, graduated, smooth, blended",
 			"multiple instances",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -343,10 +343,10 @@
 			"harmonious, natural",
 			"colorful, brown, intense",
 			"single color, brown, smooth, blended",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"multiple instances",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -357,10 +357,10 @@
 			"intense, rich, bright",
 			"colorful, intense, rich, vibrant, brilliant",
 			"single color, black",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -371,10 +371,10 @@
 			"vivid, cool, muted",
 			"harmonious, vivid, pink",
 			"no background",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, soft, smooth",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, soft, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -385,10 +385,10 @@
 			"cool, graduated, contrasting",
 			"complementary, cold, mixed",
 			"multiple color, changing",
-			"yes, single instance",
-			"no, no text",
-			"no, photo texture",
-			"no, unrealisitc"
+			"single instance",
+			"no text",
+			"photo texture",
+			"unrealisitc"
 		]
 	},
 	{
@@ -399,10 +399,10 @@
 			"intense, saturated, vivid",
 			"colorful, rich, bright, intense",
 			"single color, rich, blue",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, hard",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, hard",
+			"realistic"
 		]
 	},
 	{
@@ -413,10 +413,10 @@
 			"cool, graduated",
 			"cool, muddied, muted",
 			"single color, grey, blended",
-			"yes, signle instance",
-			"no, no text",
+			"signle instance",
+			"no text",
 			"flat, smooth",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -427,10 +427,10 @@
 			"harmonious, light",
 			"colorful, complementary, radiant",
 			"multiple color, blended, graduated",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -441,10 +441,10 @@
 			"intense, rich, vivid, hot",
 			"rich, complementary, brigth, joyful",
 			"multiple color, rich, colorful",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"photo texture, flat",
-			"yes, realistic"
+			"realistic"
 		]
 	},
 	{
@@ -455,10 +455,10 @@
 			"rich, vivid",
 			"colorful, bright, radiant",
 			"multiple color, colorful, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -469,10 +469,10 @@
 			"harmonious, graduated, rich",
 			"complementary, rich, mixed, faded",
 			"multiple color, rich, detailed, blended",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, brush strokes, hard",
-			"no, unrealistic"
+			"multiple instances",
+			"no text",
+			"painting, brush strokes, hard",
+			"unrealistic"
 		]
 	},
 	{
@@ -483,10 +483,10 @@
 			"intense, bright, rich, vibrant",
 			"colorful, rich, vibrant, intense, brilliant",
 			"sinfle color, red, rich",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, painting",
-			"yes, realistic"
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -497,10 +497,10 @@
 			"vivid, contrasting, intense, rich",
 			"bright, hot, contrasting",
 			"single color, rich, red",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, hard",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, hard",
+			"realistic"
 		]
 	},
 	{
@@ -511,10 +511,10 @@
 			"warm, muted, graduated",
 			"warm, harmonious, muddied",
 			"multiple color, smooth, brown",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, soft, smooth",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, soft, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -524,11 +524,11 @@
 			"detailed, sharp, precise lines",
 			"intense, rich, inspid",
 			"colorful, brilliant, vibrant, bright",
-			"yes, single color, blue",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, smooth",
-			"yes, realistic"
+			"single color, blue",
+			"single instance",
+			"no text",
+			"painting, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -539,10 +539,10 @@
 			"harmonious, vivid",
 			"colorful, joyful, warm",
 			"multiple color, rich, changing",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -553,10 +553,10 @@
 			"harmonious, contrasting, vivid",
 			"brilliant, bright, complementary",
 			"multiple color, rich, colorful",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes, soft",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes, soft",
+			"realistic"
 		]
 	},
 	{
@@ -567,10 +567,10 @@
 			"intense, dark",
 			"colorful, dark, brown, deep, bold",
 			"multiple color, changing, rich, brown, dark",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -581,10 +581,10 @@
 			"intense, contrasting, inspid",
 			"contrasting, brown, intense",
 			"multiple color, rich, detailed",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting",
+			"unrealistic"
 		]
 	},
 	{
@@ -595,10 +595,10 @@
 			"intense, vivid",
 			"colorful, muted, brown, cool",
 			"multiple color, changing, smooth, blended",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -609,10 +609,10 @@
 			"cool, contrasting, inspid",
 			"cold, colorful, contrasting",
 			"multiple color, colorful, blended",
-			"no, multiple instances",
-			"yes, dense, signature",
-			"yes, painting, smooth",
-			"yes, realistic"
+			"multiple instances",
+			"dense, signature",
+			"painting, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -623,10 +623,10 @@
 			"intense, rich, inspid",
 			"contrasting, rich, brown, deep",
 			"single color, white, grey",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -637,10 +637,10 @@
 			"intense, cold, rich, inspid",
 			"complementary, blended, muddied, cold, brown",
 			"multiple color, blended, brown, rich",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, smooth",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -651,10 +651,10 @@
 			"intense, contrasting",
 			"contrasting, bold, bright",
 			"multiple color, blended, graduated",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -665,10 +665,10 @@
 			"intense, dark, rich",
 			"colorful, dark, deep, cold",
 			"multiple color, dark, brown, deep",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, smooth",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -679,10 +679,10 @@
 			"vivid, rich, contrasting, intense",
 			"rich, contrasting, black, cold, intense",
 			"multiple colors, changing, white, yellow, rich",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -693,10 +693,10 @@
 			"intense, vivid, cold, dark",
 			"colorful, cold, brown, contrasting",
 			"single color",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"no, realistic"
+			"single instance",
+			"no text",
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -707,9 +707,9 @@
 			"intense, bright, rich",
 			"colorful, joyful, complementary",
 			"multiple color, blended, smooth",
-			"yes, single instance",
-			"no, no text",
-			"no, photo texture",
+			"single instance",
+			"no text",
+			"photo texture",
 			"yes realistic"
 		]
 	},
@@ -721,9 +721,9 @@
 			"intenst, contrasting, inspid",
 			"colorful, contrasting, cold, ashy",
 			"single color, green, dark",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, hard, brush strokes",
+			"multiple instances",
+			"no text",
+			"painting, hard, brush strokes",
 			""
 		]
 	},
@@ -735,10 +735,10 @@
 			"rich, graduated, vivid",
 			"colorful, rich, brown, deep, vibrant",
 			"single color, blue, smooth",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -749,10 +749,10 @@
 			"harmonious, rich, dark, intense",
 			"muddied, brown, rich, warm",
 			"multiple color, changing",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft",
+			"realistic"
 		]
 	},
 	{
@@ -763,10 +763,10 @@
 			"weak, vivid",
 			"colorful, faded, muted, neutral",
 			"multiple color, blended, graduated",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -777,10 +777,10 @@
 			"intense, dark, rich, cold",
 			"rich, dark, contrasting, mixed",
 			"multiple color, blended, changing",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -791,9 +791,9 @@
 			"intense, inspid, contrasting, rich",
 			"rich, intense, brown, complementary",
 			"multiple colors, rich, brown, blended",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, smooth",
+			"multiple instances",
+			"no text",
+			"painting, smooth",
 			"yes realistic"
 		]
 	},
@@ -805,10 +805,10 @@
 			"harmonious, weak, muted",
 			"ashy, faded, muted, neutral",
 			"single color, white, grey",
-			"yes, single instance",
-			"yes, signature",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"signature",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -819,10 +819,10 @@
 			"intense, contrasting",
 			"contrasting, radiant, colorful",
 			"single color, colorful, uniform",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -833,10 +833,10 @@
 			"vivid, black, graduated, contrasting",
 			"contrasting, intense, black, cold",
 			"multiple colors, blended, graduated, smooth, pink",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -847,10 +847,10 @@
 			"vivid, contrasting, cool",
 			"contrasting, colorful, cold, mixed",
 			"single color, smooth, green, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes, smooth",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes, smooth",
+			"realistic"
 		]
 	},
 	{
@@ -861,10 +861,10 @@
 			"harmonious, graduated",
 			"cool, muted, ashy",
 			"multiple color, graduated, blended",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"no",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -874,11 +874,11 @@
 			"detailed, precise lines, uneven, blurred",
 			"intense, vivid, rich",
 			"colorful, bright, rich, vibrant",
-			"no, multiple color, graduated",
-			"yes, single instance",
+			"multiple color, graduated",
+			"single instance",
 			"yes",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -889,10 +889,10 @@
 			"vivid, muted, natural",
 			"mixed, harmonious, blended",
 			"single color, brown, smooth",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes, hard",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes, hard",
+			"realistic"
 		]
 	},
 	{
@@ -903,10 +903,10 @@
 			"warm, graduated",
 			"complementary, mixed, neutral",
 			"single color, blended",
-			"no, multiple instances",
-			"yes, signature",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"multiple instances",
+			"signature",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -917,10 +917,10 @@
 			"harmonious, vivid, light",
 			"colorful, bright, radiant",
 			"single color, white, grey, uniform",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -931,10 +931,10 @@
 			"vivid, rich",
 			"colorful, radiant, mixed, muted",
 			"single color, white, grey",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -945,10 +945,10 @@
 			"weak, inspid, graduated",
 			"complementary, faded, muted, ashy, cold",
 			"single color, graduated, muted, grey",
-			"no, multiple instances",
+			"multiple instances",
 			"yes",
-			"yes, painting",
-			"yes, realistic"
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -959,10 +959,10 @@
 			"intense, rich, colorful",
 			"colorful, harmonious, joyful, rich",
 			"multiple color, changing, smooth, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, soft",
+			"unrealistic"
 		]
 	},
 	{
@@ -973,10 +973,10 @@
 			" harmonious, rich, bright, warm",
 			"colorful, complementary, bright, intense, warm",
 			"multiple colors, colorful, blended, changing, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft, smooth",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, soft, smooth",
+			"unrealistic"
 		]
 	},
 	{
@@ -987,10 +987,10 @@
 			"intense, dark",
 			"contrasting, dark, deep",
 			"single color, grey, white",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1001,10 +1001,10 @@
 			"intense, deep, dark, inspid",
 			"dark, deep, ashy, cold",
 			"single color, grey, white",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1015,10 +1015,10 @@
 			"harmonious, vivid",
 			"colorful, complementary, radiant",
 			"mutliple color, graduated, green, detailed",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft",
+			"realistic"
 		]
 	},
 	{
@@ -1029,10 +1029,10 @@
 			"muted, dark, inspid",
 			"muted, faded, grey, neutral",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1043,10 +1043,10 @@
 			"harmonious, light, graduated",
 			"colorful, joyful",
 			"single color, blended, grey, white",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1057,10 +1057,10 @@
 			"harmonious, natural, vivid",
 			"complementary, harmonious, mixed, muted",
 			"multiple color, blended, smooth",
-			"yes, single instance",
-			"no, no text",
-			"yes, brish strokes, painting",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"brish strokes, painting",
+			"unrealistic"
 		]
 	},
 	{
@@ -1071,10 +1071,10 @@
 			"intense, cold",
 			"colorful, contrasting",
 			"multiple color, changing",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting",
-			"no, unrealistic"
+			"multiple instances",
+			"no text",
+			"painting",
+			"unrealistic"
 		]
 	},
 	{
@@ -1085,10 +1085,10 @@
 			"harmonious, vivid, bright",
 			"rich, blended, joyful, mixed",
 			"single color, changing",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, uneven, soft",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, uneven, soft",
+			"unrealistic"
 		]
 	},
 	{
@@ -1099,10 +1099,10 @@
 			"intense, cold, inspid",
 			"contrasting, intense, dark, cold",
 			"multiple colors, dark",
-			"no, multiple instance",
-			"no, no text",
-			"yes, painting, uneven, brush strokes",
-			"yes, realistic"
+			"multiple instance",
+			"no text",
+			"painting, uneven, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1113,10 +1113,10 @@
 			"harmonious, graduated, vivid",
 			"colorful, faded, muted, bright",
 			"multiple color, rich, detailed, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1127,10 +1127,10 @@
 			"bright, intense, rich",
 			"colorful, intense, rich, hot",
 			"single color, graduated, rich",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting",
+			"unrealistic"
 		]
 	},
 	{
@@ -1141,10 +1141,10 @@
 			"intense, contrasting",
 			"colorful, contrasting, ashy, graduated",
 			"multiple color, graduated, rich, detailed, panoramic",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1155,10 +1155,10 @@
 			"rich, graduated, warm",
 			"complementary, bright, mixed, radiant",
 			"single color, smooth, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -1169,10 +1169,10 @@
 			"harmonious, graduated, muted",
 			"complementary, warm, muddied",
 			"single color, blended, changing",
-			"no, multiple instance",
-			"no, no text",
-			"yes, painting, soft",
-			"yes, realistic"
+			"multiple instance",
+			"no text",
+			"painting, soft",
+			"realistic"
 		]
 	},
 	{
@@ -1183,10 +1183,10 @@
 			"intense, vivid, bright",
 			"colorful, joyful, rich, radiant, bold",
 			"no",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1197,10 +1197,10 @@
 			"light",
 			"contrasting, colorless, ashy",
 			"multiple color, changing, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -1211,10 +1211,10 @@
 			"vivid, contrasting",
 			"rich, contrasting, muddied",
 			"single color, brown, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1225,10 +1225,10 @@
 			"harmonious, light, graduated",
 			"complementary, faded, muted, neutral",
 			"multiple color, smooth, blended",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting",
+			"realistic"
 		]
 	},
 	{
@@ -1239,10 +1239,10 @@
 			"intense, bright, rich, graduated",
 			"colorful, rich, harmonious",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"photo texture, flat",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -1253,10 +1253,10 @@
 			"harmonious, vivid",
 			"harmonious, warm, blended, graduated, faded",
 			"multiple color, graduated, smooth, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1267,10 +1267,10 @@
 			"intense, graduated",
 			"contrasting, rich, vibrant",
 			"multiple color, rich, changing",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1281,10 +1281,10 @@
 			"intense, rich, bright",
 			"colorful, complementary, harmonious, vibrant",
 			"multiple color, rich, changing",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1295,10 +1295,10 @@
 			"harmonious, light",
 			"radiant, brilliant, colorful",
 			"multiple color, black, white",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -1309,10 +1309,10 @@
 			"graduated, cold, natural",
 			"complementary, cold, pink",
 			"multiple color, rich, detailed",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, soft",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, soft",
+			"realistic"
 		]
 	},
 	{
@@ -1323,10 +1323,10 @@
 			"intense, dark, cold",
 			"muddied, cold, contrasting, brown",
 			"multiple color, dark, detailed, graduated",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, soft",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, soft",
+			"realistic"
 		]
 	},
 	{
@@ -1337,10 +1337,10 @@
 			"intense, rich, contrasting",
 			"contrasting, blended, intense, bright",
 			"multiple color, colorful, blended",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -1351,10 +1351,10 @@
 			"harmonious, graduated, light",
 			"harmonious, neutral, faded",
 			"multiple color, graduated",
-			"no, multiple instances",
-			"no, no text",
-			"yes, painting, soft",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"painting, soft",
+			"realistic"
 		]
 	},
 	{
@@ -1365,10 +1365,10 @@
 			"harmonious, vivid",
 			"complementary, bright, joyful, radiant",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, brush strokes",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"painting, brush strokes",
+			"unrealistic"
 		]
 	},
 	{
@@ -1379,10 +1379,10 @@
 			"graduated, cold",
 			"colorful, cold, muted, ashy",
 			"single color, blended, graduated",
-			"yes, single instance",
-			"no, no text",
-			"yes, painting, pencil strokes",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"painting, pencil strokes",
+			"realistic"
 		]
 	},
 	{
@@ -1393,24 +1393,24 @@
 			"intense, contrasting, inspid",
 			"contrasting, cold, mixed, yellow",
 			"single color, brown, blended, changing",
-			"yes, single instance",
-			"yes, small writing",
-			"yes, painting, smooth",
-			"yes, realistic"
+			"single instance",
+			"small writing",
+			"painting, smooth",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0365.jpg",
 		"descriptions": [
 			"representational, delineated, detailed",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"geometric shapes, cold, rich, patterned, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1421,10 +1421,10 @@
 			"harmonious, bright, natural",
 			"cold, muddied",
 			"landscape, nature",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1435,10 +1435,10 @@
 			"dull, pale, unfriendly, depressing",
 			"flat, pale",
 			"plain, white, shadow, interiors",
-			"yes, single instance",
-			"no, no  relevalt text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no  relevalt text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1449,10 +1449,10 @@
 			"muddied, cold, natural",
 			"cold, muffled",
 			"landscape, single color, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1463,10 +1463,10 @@
 			"pale, cold",
 			"muddied, gray",
 			"landscape, gray",
-			"no, multiple instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1477,10 +1477,10 @@
 			"intense, saturated, vivid",
 			"colorful, rich, bright, intense",
 			"landscape, rich, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1491,10 +1491,10 @@
 			"dull, pale, muted",
 			"flat, light tone",
 			"regular, white, shadow, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1505,38 +1505,38 @@
 			"intense, contrasting, bright",
 			"colorful, complementary, intense",
 			"green, changing, smooth",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0066.jpg",
 		"descriptions": [
 			"detailed, representational, grainy, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"plane, white, shadow, interiors",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0125.jpg",
 		"descriptions": [
 			"detailed, grainy, elaborate",
-			"blurred, precise, even",
+			"blurred, precise lines, even",
 			"vivid, rich",
 			"colorful, radiant, mixed",
 			"single color, landscape, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1547,24 +1547,24 @@
 			"rich, cold",
 			"colorful, bright, cold",
 			"brown, muddy",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0070.jpg",
 		"descriptions": [
 			"detailed, representational, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious, happy",
 			"green, landscape, neat shapes, natural",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1575,24 +1575,24 @@
 			"rich, cold",
 			"colorful, bright, cold",
 			"landscape, brown, muddy",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/horse/105_0092.jpg",
 		"descriptions": [
 			"detailed, representational, grainy, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"landscape, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1603,10 +1603,10 @@
 			"dull, pale, unfriendly, depressing",
 			"flat, pale",
 			"brown, precise lines, interiors",
-			"yes, single instance",
-			"no, no relevalt text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevalt text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1617,38 +1617,38 @@
 			"dull, pale, unfriendly, depressing",
 			"flat, pale",
 			"white, precise lines, interiors",
-			"yes, single instance",
-			"no, no relevalt text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevalt text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/n02503517_5909.jpg",
 		"descriptions": [
 			"detailed, grainy, elaborate",
-			"blurred, precise, even",
+			"blurred, precise lines, even",
 			"earthy, rich",
 			"colorful, natural",
 			"brown, muddy, landscape, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0307.jpg",
 		"descriptions": [
 			"representational, detailed, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"rich, patterned, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1659,10 +1659,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, bright",
 			"landscape, natural, green, light blue",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1673,10 +1673,10 @@
 			"dull, pale, unfriendly, depressing",
 			"flat, pale",
 			"precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1687,10 +1687,10 @@
 			"rich, cold",
 			"colorful, bright, cold",
 			"brown",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1701,10 +1701,10 @@
 			"intense, rich, colorful",
 			"colorful, harmonious, joyful",
 			"plain, white",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, photo",
-			"yes, realistic"
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1715,10 +1715,10 @@
 			"rich, cold",
 			"colorful, bright, cold",
 			"landscape, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1729,10 +1729,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, bright",
 			"landscape, natural, green, light blue",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1743,10 +1743,10 @@
 			"intense, warm, vivid",
 			"colorful, rich, intense",
 			"precise lines, rich, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1757,24 +1757,24 @@
 			"dull, pale, unfriendly, depressing",
 			"colorful, warm",
 			"precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0310.jpg",
 		"descriptions": [
 			"representational, delineated, detailed",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"landscape, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1785,24 +1785,24 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"landscape, natural, green, gray",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0116.jpg",
 		"descriptions": [
 			"representational, delineated, detailed",
-			"smooth, precise, definite, detailed",
+			"smooth, precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"dark, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1813,10 +1813,10 @@
 			"thoughtful, pale",
 			"vivid, colorful",
 			"colorful, precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1827,10 +1827,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"landscape, natural, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"no, compressed"
+			"single instance",
+			"no text",
+			"photo",
+			"compressed"
 		]
 	},
 	{
@@ -1841,10 +1841,10 @@
 			"cold, pale",
 			"pale, muddied, brown",
 			"gray, muddy",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"no, compressed"
+			"single instance",
+			"no text",
+			"photo",
+			"compressed"
 		]
 	},
 	{
@@ -1855,10 +1855,10 @@
 			"rich, vivid",
 			"colorful, bright, radiant",
 			"multiple color, colorful, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1869,24 +1869,24 @@
 			"intense, saturated, vivid",
 			"colorful, rich, bright, intense",
 			"single color, rich, green",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0303.jpg",
 		"descriptions": [
 			"detailed, representational, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"green, landscape, neat shapes, natural",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1897,10 +1897,10 @@
 			"intense, vivid, cold, dark",
 			"colorful, cold, brown, contrasting",
 			"single color",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"no, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1911,10 +1911,10 @@
 			"dull, pale, unfriendly, depressing",
 			"flat, pale",
 			"precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1925,10 +1925,10 @@
 			"cold, muted, natural",
 			"mixed, harmonious, blended",
 			"single color, white, smooth",
-			"no, multiple instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1939,10 +1939,10 @@
 			"dull, pale",
 			"pale",
 			"colorful, precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1953,10 +1953,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"landscape, natural, green, light blue",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1967,10 +1967,10 @@
 			"intense, rich, colorful",
 			"colorful, harmonious, joyful",
 			"plain, white",
-			"no, multiple instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1981,10 +1981,10 @@
 			"rich, vivid",
 			"colorful, bright, radiant",
 			"multiple color, colorful, green",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -1995,10 +1995,10 @@
 			"intense, contrasting, cold, graduated, bright",
 			"rich, muddied, brown",
 			"multiple color, changing, graduated, brow, landscape",
-			"yes, single instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2009,10 +2009,10 @@
 			"rich, cold",
 			"colorful, bright, cold",
 			"landscape, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2023,10 +2023,10 @@
 			"intense, rich, cold",
 			"cold, gray",
 			"gray",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"no, compressed"
+			"single instance",
+			"no text",
+			"photo",
+			"compressed"
 		]
 	},
 	{
@@ -2037,10 +2037,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"natural, green, gray",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, photo",
-			"yes, realistic"
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2051,10 +2051,10 @@
 			"rich, warm",
 			"colorful, bright, warm",
 			"landscape, green",
-			"no, multiple instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2065,10 +2065,10 @@
 			"dull, pale, unfriendly",
 			"colorful, warm",
 			"plain, white, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2079,10 +2079,10 @@
 			"intense, rich, harmonious",
 			"brilliant, cold",
 			"urban, brown, gray",
-			"no, multiple instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2093,24 +2093,24 @@
 			"rich, vivid",
 			"colorful, bright, radiant",
 			"landscape, colorful, green",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0434.jpg",
 		"descriptions": [
 			"detailed, representational, grainy, delineated",
-			"precise, definite, detailed",
+			"precise  lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"plane, white, interiors",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2121,24 +2121,24 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"landscape, natural, green, light blue",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0427.jpg",
 		"descriptions": [
 			"detailed, representational, grainy, delineated",
-			"precise, definite, detailed",
+			"precise  lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"precise lines, interiors",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2149,10 +2149,10 @@
 			"cold, pale",
 			"pale, muddied, brown",
 			"brown, muddy",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2163,10 +2163,10 @@
 			"intense, contrasting, cold, graduated, bright",
 			"rich, muddied",
 			"multiple color, changing, graduated, green, landscape",
-			"yes, single instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2177,24 +2177,24 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"landscape, natural, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0185.jpg",
 		"descriptions": [
 			"detailed, representational, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious, happy",
 			"interiors, gray",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2205,10 +2205,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"light blue, sky",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2219,10 +2219,10 @@
 			"rich, cold",
 			"colorful, bright, radiant",
 			"landscape, brown, muddy",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2233,10 +2233,10 @@
 			"intense, rich, warm",
 			"warm, gray",
 			"gray, landscape, green",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"no, compressed"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"compressed"
 		]
 	},
 	{
@@ -2247,10 +2247,10 @@
 			"rich, cold",
 			"colorful, bright, radiant",
 			"landscape, brown, green, muddy",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2261,10 +2261,10 @@
 			"cold, vivid",
 			"pale, muddied, green",
 			"green, muddy",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2275,24 +2275,24 @@
 			"warm, colorful, unfriendly, depressing",
 			"flat, pale",
 			"precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0142.jpg",
 		"descriptions": [
 			"detailed, representational, grainy, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"plane, white, interiors",
-			"yes, single instance",
-			"no, no relevant text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no relevant text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2303,10 +2303,10 @@
 			"intense, bright, rich, vibrant",
 			"colorful, rich, vibrant, intense, brilliant",
 			"landscape, green",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, photo",
-			"yes, realistic"
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2317,10 +2317,10 @@
 			"cold, rich, inspid",
 			"complementary, blended, muddied, cold, brown",
 			"black",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, photo",
-			"yes, realistic"
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2331,24 +2331,24 @@
 			"dull, pale, unfriendly, depressing",
 			"flat, pale",
 			"precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0309.jpg",
 		"descriptions": [
 			"detailed, representational, grainy, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, cold",
 			"joyful, harmonious",
 			"plane, white, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2359,10 +2359,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"light blue, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2373,10 +2373,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"gray sky, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2387,10 +2387,10 @@
 			"intense, bright, rich, vibrant",
 			"vibrant, intense, cold",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2401,24 +2401,24 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"light blue, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/person/253_0154.jpg",
 		"descriptions": [
 			"detailed, representational, grainy, delineated",
-			"precise, definite, detailed",
+			"precise lines, definite, detailed",
 			"vivid, warm",
 			"joyful, harmonious",
 			"plane, white, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2429,10 +2429,10 @@
 			"intense, contrasting, bright",
 			"cold, complementary, intense",
 			"green, changing, smooth",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2443,10 +2443,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"blue sky, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2457,10 +2457,10 @@
 			"intense, rich, cold",
 			"cold",
 			"plain, black",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2471,10 +2471,10 @@
 			"muddied, cold, natural",
 			"cold, muffled",
 			"landscape, natural, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2485,10 +2485,10 @@
 			"muddied, cold, natural",
 			"cold, muffled",
 			"gray, urban",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2499,10 +2499,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"gray sky, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2513,10 +2513,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"gray sky, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2527,10 +2527,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"landscape, natural, green, gray",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2541,10 +2541,10 @@
 			"dull, pale, unfriendly, depressing",
 			"colorful, warm",
 			"green, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2555,10 +2555,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"blue, natural, green, gray sky",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2569,10 +2569,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"natural, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2583,10 +2583,10 @@
 			"dull, pale, muted",
 			"flat, light tone",
 			"regular, white, shadow, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2597,10 +2597,10 @@
 			"vivid, cold",
 			"muddied, muffled",
 			"landscape, sandy, natural",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2611,10 +2611,10 @@
 			"cool, contrasting",
 			"complementary, cold, mixed",
 			"multiple color, changing",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2625,10 +2625,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"landscape, natural, green, blue sky",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2639,10 +2639,10 @@
 			"rich, warm",
 			"colorful, bright, warm",
 			"green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2653,10 +2653,10 @@
 			"intense, contrasting, inspid",
 			"contrasting, cold, mixed",
 			"plain, black",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2667,24 +2667,24 @@
 			"pale, rich, cold",
 			"rich, contrasting, mixed",
 			"gray, changing",
-			"yes, single instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "photo/elephant/064_0119.jpg",
 		"descriptions": [
 			"detailed, grainy, elaborate",
-			"blurred, precise, even",
+			"blurred, precise lines, even",
 			"earthy, rich",
 			"colorful, natural",
 			"brown, muddy, urban",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2695,10 +2695,10 @@
 			"rich, vivid",
 			"colorful, bright, radiant",
 			"multiple color, colorful, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2709,10 +2709,10 @@
 			"dull, pale",
 			"pale",
 			"colorful, precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2723,10 +2723,10 @@
 			"cold",
 			"pale, muddied, gray",
 			"lanscape, gray",
-			"no, multiple instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2737,10 +2737,10 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, warm",
 			"landscape, natural, green, blue sky",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2751,10 +2751,10 @@
 			"dull, pale, unfriendly, depressing",
 			"colorful, warm",
 			"precise lines, interiors",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2765,10 +2765,10 @@
 			"rich, vivid",
 			"colorful, bright, radiant",
 			"plain, blue",
-			"yes, single instance",
+			"single instance",
 			"yes",
-			"yes, photo",
-			"no, miniature model"
+			"photo",
+			"miniature model"
 		]
 	},
 	{
@@ -2779,10 +2779,10 @@
 			"rich, warm",
 			"colorful, bright, warm",
 			"landscape, green",
-			"yes, single instance",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"single instance",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
@@ -2793,1410 +2793,1410 @@
 			"intense, rich, harmonious",
 			"brilliant, vibrant, cold",
 			"landscape, natural, green, blue sky",
-			"no, multiple instances",
-			"no, no text",
-			"yes, photo",
-			"yes, realistic"
+			"multiple instances",
+			"no text",
+			"photo",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_232.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_357.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_194.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes",
+			"dull, pale, muted",
+			"colorful",
 			"light blue",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_096.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
-			"yes, grayscale",
-			"white",
+			"vivid, cold",
+			"grayscale",
+			"single color, white",
+			"single instance",
 			"yes",
-			"yes",
-			"no",
-			"no, unrealistic"
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_074.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
-			"yes, colorful",
-			"white",
-			"yes",
-			"yes, not relevant",
-			"no",
-			"no, unrealistic"
+			"vivid, cold",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"not relevant",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_219.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated",
 			"precise lines",
-			"mid",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"vivid, cold",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_381.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
-			"no",
+			"vivid, cold",
+			"no shades",
 			"white with green frame",
-			"yes",
-			"yes, not relevant",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"not relevant",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_353.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_106.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_218.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level. delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"yes, dense",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"dense",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_056.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes, grayscale",
+			"dull, pale, muted",
+			"grayscale",
 			"green-colored with shades of cream",
-			"yes",
-			"yes, dense",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"dense",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_383.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"no, two instances",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"multiple instances",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_031.jpg",
 		"descriptions": [
-			"low-level",
+			"high-level, detailed, delineated, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_121.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated, grainy",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_260.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_354.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"yes, sparse",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"sparse",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_010.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_042.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_076.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_043.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"no, two instances",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"multiple instances",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_471.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no shades",
 			"light blue and white",
-			"yes",
-			"yes, sparse",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"sparse",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_195.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_339.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"yes"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_390.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level,grainy",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"no, four instances",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"multiple instances",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_179.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_065.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_326.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_496.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_337.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_080.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_393.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no shades",
 			"orange with white frame",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_092.jpg",
 		"descriptions": [
-			"low-level",
+			"high-level, detailed, delineated, representational",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_177.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"no, six instances",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"multiple instances",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_118.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_376.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_071.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_060.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, detailed, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"yes"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"realistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_166.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"wave lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_175.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, detailed, delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
 			"yes",
-			"yes",
-			"no",
-			"no, unrealistic"
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_281.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_259.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"no, two instances",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"multiple instances",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_135.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"wave lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_313.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_218.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_163.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_161.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_065.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_135.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, grayscale",
+			"dull, pale, muted",
+			"grayscale",
 			"green-colored with some shades of grey",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_003.jpg",
 		"descriptions": [
-			"mid-level",
+			"high-level, detailed, delineated, representational",
 			"precise lines",
-			"low",
-			"yes, colorful",
+			"dull, pale, muted",
+			"colorful",
 			"ligh blue",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_254.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_194.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_178.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_011.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, representational, delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_172.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_317.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_379.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no shades",
 			"cream-colored",
-			"no, four instances",
-			"yes, sparse",
-			"no",
-			"no, unrealistic"
+			"multiple instances",
+			"sparse",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_080.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_333.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_024.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_166.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_025.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_132.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level. delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_063.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"no, six instances",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"multiple instances",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/guitar/pic_077.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_003.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_083.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no shades",
 			"white with a purple circle",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_200.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_024.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_454.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_223.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_264.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
+			"dull, pale, muted",
+			"no shades",
 			"green-colored",
+			"single instance",
 			"yes",
-			"yes",
-			"no",
-			"no, unrealistic"
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_237.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_352.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
 			"yes",
-			"yes",
-			"no",
-			"no, unrealistic"
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_055.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
 			"yes",
-			"yes",
-			"no",
-			"no, unrealistic"
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_357.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_084.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
 			"yes",
-			"yes",
-			"no",
-			"no, unrealistic"
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_197.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, grainy, representational, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_021.jpg",
 		"descriptions": [
-			"low-level",
+			"mid-level, delineated, detailed",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_044.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_058.jpg",
 		"descriptions": [
-			"mid-level",
+			"high-level, delineated, detailed, representational",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_042.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
+			"dull, pale, muted",
+			"colorful",
 			"white and gray checkered",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_138.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_447.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_156.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_216.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy, representational",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_211.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"mid",
-			"yes, colorful",
+			"vivid, cold",
+			"colorful",
 			"light blue, white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_182.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_312.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_340.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_233.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"mid",
-			"no",
+			"vivid, cold",
+			"no shades",
 			"light blue, white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_400.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"yes, grayscale",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"grayscale",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/elephant/pic_290.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, detailed, delineated",
 			"precise lines",
-			"mid",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"vivid, cold",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_193.jpg",
 		"descriptions": [
-			"high-level",
+			"high-level, delineated, detailed, representational",
 			"precise lines",
-			"high",
-			"yes, colorful",
+			"intense, rich, harmonious",
+			"colorful",
 			"blue, green, white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/giraffe/pic_122.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_331.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
 			"yes",
-			"yes",
-			"no",
-			"no, unrealistic"
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_025.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, delineated",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/person/pic_041.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/house/pic_253.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy, delineated",
 			"precise lines",
-			"low",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/dog/pic_017.jpg",
 		"descriptions": [
-			"mid-level",
+			"mid-level, delineated, representational",
 			"precise lines",
-			"mid",
-			"yes, colorful",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"vivid, cold",
+			"colorful",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "cartoon/horse/pic_186.jpg",
 		"descriptions": [
-			"low-level",
+			"low-level, grainy",
 			"precise lines",
-			"low",
-			"no",
-			"white",
-			"yes",
-			"no",
-			"no",
-			"no, unrealistic"
+			"dull, pale, muted",
+			"no shades",
+			"single color, white",
+			"single instance",
+			"no text",
+			"cartoon",
+			"unrealistic"
 		]
 	},
 	{
@@ -4207,10 +4207,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4221,10 +4221,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4235,10 +4235,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4249,10 +4249,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4263,10 +4263,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4277,10 +4277,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4291,10 +4291,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4305,10 +4305,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4319,10 +4319,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4333,10 +4333,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4347,10 +4347,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4361,10 +4361,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4375,10 +4375,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4389,10 +4389,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4403,10 +4403,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4417,10 +4417,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4431,10 +4431,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4445,10 +4445,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4459,10 +4459,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4473,10 +4473,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4487,10 +4487,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4501,10 +4501,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4515,10 +4515,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4529,10 +4529,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4543,10 +4543,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4557,10 +4557,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4571,10 +4571,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4585,10 +4585,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4599,10 +4599,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4613,10 +4613,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4627,10 +4627,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4641,10 +4641,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4655,10 +4655,10 @@
 			"no colors",
 			"black line",
 			"single color, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -4669,10 +4669,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4683,10 +4683,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4697,10 +4697,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4711,10 +4711,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4725,10 +4725,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4739,10 +4739,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4753,10 +4753,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4767,10 +4767,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4781,10 +4781,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4795,10 +4795,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4809,10 +4809,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4823,10 +4823,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4837,10 +4837,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4851,10 +4851,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4865,10 +4865,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4879,10 +4879,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4893,10 +4893,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4907,10 +4907,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4921,10 +4921,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4935,10 +4935,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4949,10 +4949,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4963,10 +4963,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4977,10 +4977,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -4991,10 +4991,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5005,10 +5005,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5019,10 +5019,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5033,10 +5033,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5047,10 +5047,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5061,10 +5061,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5075,10 +5075,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5089,10 +5089,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5103,10 +5103,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5117,10 +5117,10 @@
 			"no colors",
 			"no",
 			"white",
-			"yes",
+			"single instance",
+			"no text",
 			"no",
-			"no",
-			"no"
+			"unrealistic"
 		]
 	},
 	{
@@ -5131,10 +5131,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5145,10 +5145,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5159,10 +5159,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5173,10 +5173,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5187,10 +5187,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5201,10 +5201,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5215,10 +5215,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5229,78 +5229,78 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/guitar/n02676566_9254-2.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes, realistic"
+			"realistic"
 		]
 	},
 	{
 		"image_name": "sketch/elephant/n02503517_3808-2.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/horse/n02374451_8744-6.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/dog/n02106662_10406-3.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes"
+			"realistic"
 		]
 	},
 	{
 		"image_name": "sketch/guitar/n02676566_330-2.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
 			"yes"
 		]
@@ -5309,126 +5309,126 @@
 		"image_name": "sketch/horse/n02374451_1340-10.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/horse/n02374451_7631-5.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/guitar/n03467517_22246-5.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes"
+			"realistic"
 		]
 	},
 	{
 		"image_name": "sketch/horse/n02374451_257-1.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/dog/n02103406_4849-4.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/guitar/n02676566_6980-3.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes"
+			"realistic"
 		]
 	},
 	{
 		"image_name": "sketch/elephant/n02503517_8571-3.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes"
+			"realistic"
 		]
 	},
 	{
 		"image_name": "sketch/elephant/n02503517_9421-3.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes"
+			"realistic"
 		]
 	},
 	{
 		"image_name": "sketch/horse/n02374451_6192-6.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes"
+			"realistic"
 		]
 	},
 	{
@@ -5439,10 +5439,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5453,24 +5453,24 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
 		"image_name": "sketch/dog/n02109525_18347-3.png",
 		"descriptions": [
 			"delineated",
-			"precise, sharp",
+			"precise lines, sharp",
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"yes"
+			"realistic"
 		]
 	},
 	{
@@ -5481,10 +5481,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5495,10 +5495,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5509,10 +5509,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5523,10 +5523,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5537,10 +5537,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5551,10 +5551,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5565,10 +5565,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5579,10 +5579,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	},
 	{
@@ -5593,10 +5593,10 @@
 			"no colors",
 			"black line",
 			"plain, white",
-			"yes, single instance",
-			"no, no text",
+			"single instance",
+			"no text",
 			"sketch",
-			"no, unrealistic"
+			"unrealistic"
 		]
 	}
 ]
