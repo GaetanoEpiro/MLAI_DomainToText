@@ -1,0 +1,150 @@
+single instance : 218
+no text : 212
+detailed : 163
+precise lines : 163
+delineated : 125
+unrealistic : 121
+white : 119
+realistic : 110
+grainy : 108
+single color : 91
+rich : 91
+colorful : 85
+pale : 75
+muted : 73
+low-level : 73
+photo : 71
+intense : 70
+definite : 68
+dull : 65
+cold : 64
+cartoon : 59
+harmonious : 54
+sharp : 54
+painting : 53
+no colors : 51
+vivid : 47
+representational : 41
+green : 41
+distinct : 38
+multiple color : 38
+contrasting : 37
+bright : 37
+warm : 37
+blurred : 35
+smooth : 34
+uneven : 30
+natural : 28
+black line : 28
+sketch : 28
+no shades : 27
+blended : 26
+landscape : 26
+imprecise : 24
+graduated : 24
+vibrant : 23
+intricate : 23
+complementary : 21
+irregular : 21
+dark : 21
+multiple instances : 20
+brilliant : 20
+soft : 18
+brown : 18
+changing : 17
+pencil strokes : 16
+joyful : 16
+interiors : 16
+plain : 16
+mixed : 13
+brush strokes : 13
+elaborate : 12
+gray : 12
+radiant : 11
+marked lines : 11
+cool : 9
+muddied : 9
+faded : 9
+grey : 9
+grayscale : 9
+inspid : 8
+flat : 8
+unfriendly : 8
+no relevant text : 8
+depressing : 7
+muddy : 7
+light blue : 7
+light lines : 7
+historic : 6
+neutral : 5
+photo texture : 5
+deep : 5
+light : 5
+mid-level : 5
+precise : 5
+digital : 4
+saturated : 4
+blue : 4
+hard : 4
+black : 4
+multiple colors : 4
+compressed : 4
+gray sky : 4
+high-level : 4
+panoramic : 3
+bold : 3
+red : 3
+frosted : 3
+shadow : 3
+muffled : 3
+blue sky : 3
+marked irregular lines : 3
+uniform : 2
+artificial : 2
+hot : 2
+dense : 2
+signature : 2
+yes realistic : 2
+pink : 2
+ashy : 2
+patterned : 2
+blur lines : 2
+light tone : 2
+regular : 2
+neat shapes : 2
+even : 2
+earthy : 2
+urban : 2
+not relevant : 2
+marked : 2
+light irregular lines : 2
+weak : 1
+realisitc : 1
+unrealisitc : 1
+patchy : 1
+irregualr : 1
+yellow : 1
+brish strokes : 1
+multiple instance : 1
+deinite : 1
+geometric shapes : 1
+nature : 1
+no  relevalt text : 1
+fuzzy : 1
+blear : 1
+happy : 1
+no relevalt text : 1
+precise  lines : 1
+sky : 1
+plane : 1
+sandy : 1
+single instances : 1
+miniature model : 1
+white with green frame : 1
+green-colored with shades of cream : 1
+sparse : 1
+green-colored with some shades of grey : 1
+ligh blue : 1
+white with a purple circle : 1
+green-colored : 1
+trembling : 1
