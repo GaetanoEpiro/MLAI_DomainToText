@@ -14,7 +14,6 @@ from model.build_gen import  Generator,Standard_Classifier
 from tqdm import tqdm
 from numpy import dot
 from model.triplet_match.model import TripletMatch
-from utils import Utils
 
 from datasets.dataset_read import dataset_read_eval
 
@@ -36,18 +35,11 @@ parser.add_argument('--path_to_dataset', type=str, default='/content/MLAI_Domain
 parser.add_argument('--num_classes', type=int, default=7, help='size for the crop')
 parser.add_argument('--gpu', type=int, default=0,help='gpu index')
 
-#Preprocessing settings
-parser.add_argument('--num_training', type=int, default=0.6, help='Number of elements in the training set')
-parser.add_argument('--num_test', type=int, default=0.25, help='Number of elements in the test set')
-parser.add_argument('--num_validation', type=int, default=0.15, help='Number of elements in the validation set')
-
 args = parser.parse_args()
 
 torch.cuda.set_device(args.gpu)
 
 def main():
-    
-    Utils(args.num_training, args.num_validation, args.num_test)
 
     drive_path = '/content/drive/MyDrive/'
 
