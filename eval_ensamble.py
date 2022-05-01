@@ -14,7 +14,6 @@ from model.build_gen import  Generator,Standard_Classifier
 from tqdm import tqdm
 from numpy import dot
 from model.triplet_match.model import TripletMatch
-from utils import Utils
 
 from datasets.dataset_read import dataset_read_eval
 
