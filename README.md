@@ -11,9 +11,11 @@
 
 2 - Place the dataset in the DomainToText_AMLProject folder making sure that the images are organized in this way:
 
+```
 PACS/kfold/art_painting/dog/pic_001.jpg
 PACS/kfold/art_painting/dog/pic_002.jpg
 PACS/kfold/art_painting/dog/pic_003.jpg
+```
 
 ## Pretrained models
 
